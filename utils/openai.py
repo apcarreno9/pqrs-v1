@@ -3,6 +3,8 @@ import logging
 import json
 from pathlib import Path
 
+import streamlit as st
+
 import requests
 import httpx
 from aws_requests_auth.aws_auth import AWSRequestsAuth
@@ -25,13 +27,13 @@ MAIN_PATH = Path(os.getcwd())
 
 load_dotenv(MAIN_PATH / ".env")
 
-AWS_ACCESS_KEY = os.getenv("AWS_ACCESS_KEY_ID")
-AWS_REGION = os.getenv("AWS_REGION")
-AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
-AWS_SESSION_TOKEN = os.getenv("AWS_SESSION_TOKEN")
-HOST_EXP_ENV = os.getenv("HOST_EXP_ENV")
-JWT_EXP_ENV = os.getenv("JWT")
-URL_EXP_ENV = os.getenv("URL_EXP_ENV")
+AWS_ACCESS_KEY = st.secrets["AWS_ACCESS_KEY_ID"]
+AWS_REGION = st.secrets["AWS_REGION"]
+AWS_SECRET_ACCESS_KEY = st.secrets["AWS_SECRET_ACCESS_KEY"]
+AWS_SESSION_TOKEN = st.secrets["AWS_SESSION_TOKEN"]
+HOST_EXP_ENV = st.secrets["HOST_EXP_ENV"]
+JWT_EXP_ENV = st.secrets["JWT"]
+URL_EXP_ENV = st.secrets["URL_EXP_ENV"]
 
 class AWSSignedHTTPTransport(httpx.HTTPTransport):
     def __init__(self):

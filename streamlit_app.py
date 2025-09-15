@@ -39,13 +39,13 @@ load_dotenv(MAIN_PATH / ".env")
 
 GOOGLE_CREDENTIALS = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 
-AWS_ACCESS_KEY = os.getenv("AWS_ACCESS_KEY_ID")
-AWS_REGION = os.getenv("AWS_REGION")
-AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
-AWS_SESSION_TOKEN = os.getenv("AWS_SESSION_TOKEN")
-HOST_EXP_ENV = os.getenv("HOST_EXP_ENV")
-JWT_EXP_ENV = os.getenv("JWT")
-URL_EXP_ENV = os.getenv("URL_EXP_ENV")
+AWS_ACCESS_KEY = st.secrets["AWS_ACCESS_KEY_ID"]
+AWS_REGION = st.secrets["AWS_REGION"]
+AWS_SECRET_ACCESS_KEY = st.secrets["AWS_SECRET_ACCESS_KEY"]
+AWS_SESSION_TOKEN = st.secrets["AWS_SESSION_TOKEN"]
+HOST_EXP_ENV = st.secrets["HOST_EXP_ENV"]
+JWT_EXP_ENV = st.secrets["JWT"]
+URL_EXP_ENV = st.secrets["URL_EXP_ENV"]
 
 MIME_TYPES = {
     "pdf": "application/pdf",
