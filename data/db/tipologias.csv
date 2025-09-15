@@ -1,0 +1,390 @@
+Item,Tipología,Descripción
+1,Actualización custodios e información de domicilio VIP,Proceso relacionado con la actualización de información de custodios y domicilios para garantizar registros actualizados en el sistema.
+2,Actualización de información de producto en Centrales de Riesgo,Solicitud para modificar o actualizar información de productos específicos en el Centro de Información.
+3,Actualización de información personal en Centrales de Riesgo,"Cambio o corrección de datos personales en el Centro de Información, tales como dirección, teléfono o correo electrónico."
+4,Actualización equivocada de datos personales,Corrección de datos personales ingresados de manera incorrecta debido a errores humanos o del sistema.
+5,Actualización reporte por normalización - Ley Borrón y Cuenta Nueva,"Actualización de reportes por procesos de normalización según la Ley 2157, relacionada con la actualización de obligaciones financieras."
+6,Actualización reporte por pago total - Ley Borrón y Cuenta Nueva,Proceso relacionado con la actualización de reportes tras el pago total de obligaciones financieras bajo el marco de la Ley Borrón y Cuenta Nueva
+7,Cambio de periodicidad de visualización de adquirencias,Cambio en la frecuencia de visualización de adquirencias para ajustarse a las necesidades del usuario o de la institución.
+8,Conciliación de Adquirencia Premium,Revisión y ajuste de los datos relacionados con la adquirencia premium para garantizar la precisión y consistencia financiera.
+9,Solicitud de Extractos de Adquirencias - Otros - PREMIUM,Solicitud para la generación y entrega de extractos específicos relacionados con adquirencias premium bajo categorías personalizadas.
+10,Alivio - Barrido de cuotas,"Aplicación de un alivio financiero mediante el barrido o ajuste de cuotas, en beneficio del cliente."
+11,Alivio - Imposibilidad de seguir pagando,Situación en la que el cliente solicita un alivio financiero debido a la incapacidad de cumplir con los pagos de las cuotas pendientes.
+12,Alivio - Imposibilidad seguir pagando,Situación en la que el cliente solicita un alivio financiero debido a la incapacidad de cumplir con los pagos de las cuotas pendientes.
+13,Alivio - Inconformidad de liquidación de intereses periodo de gracia,"Solicitud para revisar y corregir la liquidación de intereses en un periodo de gracia, debido a una posible discrepancia percibida por el cliente."
+14,Alivio - Incumplimiento de Condiciones Alivio,Reclamo relacionado con el incumplimiento de las condiciones establecidas para un alivio financiero previamente acordado.
+15,Alivio - Solicitud,Petición formal para obtener un alivio financiero que permita al cliente ajustar su situación económica con la institución.
+16,Alivio - Solicitud ampliación,Petición formal para obtener un alivio financiero que permita al cliente ajustar su situación económica con la institución.
+17,Alivio - Solicitud de normalización,Petición formal para obtener un alivio financiero que permita al cliente ajustar su situación económica con la institución.
+18,Alivio -barrido de cuotas,"Aplicación de un alivio financiero mediante el barrido o ajuste de cuotas, en beneficio del cliente."
+19,Debito y no entrego cajero administrado por la oficina,"Situación en la que el cajero automático realizó un débito a la cuenta del cliente pero no entregó el dinero solicitado, requiriendo una investigación."
+20,El cliente no recibe extractos,"Incidente donde el cliente reporta no recibir sus extractos bancarios de forma oportuna, lo cual podría afectar su gestión financiera."
+21,Inconformidad tasa ofrecida red de oficinas,Queja o reclamo relacionado con una discrepancia en la tasa ofrecida por la red de oficinas en comparación con las expectativas del cliente.
+22,Infraestructura Oficina,"Reclamo o sugerencia sobre el estado físico, accesibilidad o adecuación de la infraestructura de una oficina bancaria."
+23,Mal servicio prestado red de oficinas,Queja relacionada con una experiencia insatisfactoria en la atención brindada por la red de oficinas del banco.
+24,Servicio brindado call center,"Feedback sobre la calidad del servicio recibido al interactuar con el call center, incluyendo tiempos de espera y resolución de consultas."
+25,Servicio brindado casas de cobranza,Reclamo o comentario sobre el trato recibido o la gestión realizada por las casas de cobranza que representan al banco.
+26,Servicio brindado oficina,"Evaluación o queja sobre el servicio ofrecido por los colaboradores en una oficina bancaria, incluyendo tiempos y calidad de atención."
+27,Servicio brindado vendedores externos,Comentarios o reclamos relacionados con la calidad del servicio ofrecido por vendedores externos que representan al banco.
+28,Atención lenta o deficiente,Reclamo por tiempos prolongados de atención o por una experiencia insatisfactoria en la resolución de consultas o problemas.
+29,Tiempo de atención,"Preocupación o queja sobre el tiempo total requerido para ser atendido, tanto en oficinas como en otros canales del banco."
+30,Gestión de cobranza,"Comentarios sobre la manera en que se lleva a cabo el proceso de cobranza, incluyendo posibles desacuerdos con los métodos utilizados."
+31,Reestructuración deuda,"Solicitud o proceso relacionado con la reestructuración de una deuda existente, ajustando términos como plazos o tasas de interés para facilitar el pago."
+32,Cobro consulta de saldo,Reclamo o consulta relacionada con el cobro aplicado por la consulta de saldo en una cuenta o producto financiero
+33,Cobro cuota de administración,"Comentarios o reclamos sobre los cargos aplicados por la administración de un producto financiero, como cuentas de ahorro o corrientes."
+34,Cobro cuota de manejo,Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos como tarjetas de crédito o débito.
+35,Cobro cuota de manejo - Portafolio master,Revisión o reclamo sobre el cobro específico de la cuota de manejo asociada a productos del portafolio master del banco.
+36,Cobro cuota de manejo - Portafolio master Standar,"Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos específicos del portafolio, como tarjetas de crédito o débito."
+37,Cobro cuota de manejo - Portafolio tc visa,"Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos específicos del portafolio, como tarjetas de crédito o débito."
+38,Cobro cuota de manejo - Portafolio tc visa tarjetón,"Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos específicos del portafolio, como tarjetas de crédito o débito."
+39,Cobro cuota portafolio net PIBE,"Revisión o duda sobre cobros aplicados a transacciones dentro del portafolio Net PIBE del banco, relacionado con un servicio específico."
+40,Cobro de comisiones transacciones no exitosas otras redes,"Reclamo por cobros realizados a pesar de que las transacciones en otras redes no se completaron exitosamente, solicitando una revisión."
+41,Cobro duplicado de seguros,Reclamo sobre cobros duplicados relacionados con pólizas de seguros adquiridas con el banco.
+42,Cobro por operaciones fallidas en cajeros electrónicos,Queja por cobros realizados a pesar de que las operaciones en cajeros electrónicos no se completaron correctamente.
+43,Cobro servicios (Ley 2009 de 2019),Revisión de cobros relacionados con servicios financieros en el marco de la Ley 2009 de 2019.
+44,Cobro servicios o comisiones,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero.
+45,Cobro Servicios o Comisiones Portafolio Empresas,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero.
+46,Cobro transferencias net PIBE,Duda o reclamo sobre comisiones aplicadas a transferencias realizadas a través de la plataforma Net PIBE.
+47,Certificado costos financieros,Solicitud para obtener un certificado detallado de los costos financieros relacionados con productos o servicios bancarios.
+48,Comisión cancelación anticipada,Queja o consulta sobre la comisión aplicada por la cancelación anticipada de un crédito o producto financiero.
+49,Comisión consignación nacional,Duda o reclamo sobre los cobros aplicados a consignaciones nacionales realizadas en oficinas o canales del banco.
+50,Comisión estudio de crédito,Consulta sobre el cobro de la comisión aplicada por el estudio previo para la aprobación de un crédito.
+51,Comisión venta de chequeras,Queja sobre el cobro realizado por la venta de chequeras a clientes con cuentas corrientes.
+52,Comisiones portafolio,Consulta o reclamo relacionado con las comisiones aplicadas a productos incluidos en el portafolio financiero del cliente.
+53,Otras comisiones,Revisión de comisiones aplicadas que no están claramente detalladas en el estado de cuenta.
+54,Cuenta bloqueada,"Consulta o reclamo sobre una cuenta bloqueada, posiblemente debido a seguridad o falta de uso."
+55,Cuenta cancelada,Duda o inconformidad sobre la cancelación de una cuenta bancaria.
+56,Cuenta embargada,"Solicitudes y reclamos de clientes sobre cuentas embargadas, levantamientos no aplicados, bloqueos de productos, correcciones en centrales de riesgo y entrega de información sobre las órdenes judiciales o administrativas que originaron el embargo."
+57,Histórico de Movimientos,Solicitud para obtener un registro detallado del histórico de movimientos en la cuenta del cliente.
+58,Histórico de Movimientos Premium,Solicitud para obtener un registro detallado del histórico de movimientos en la cuenta del cliente.
+59,Histórico de Movimientos VIP,Solicitud para obtener un registro detallado del histórico de movimientos en la cuenta del cliente.
+60,Saldos y movimientos no conformes,Reclamo por discrepancias detectadas en los saldos y movimientos reportados en la cuenta del cliente.
+61,Verificar y analizar operaciones no visualizadas en la cuenta de adquirencia del comercio,"Análisis y verificación de operaciones que no están reflejadas en la cuenta de adquirencia del comercio, afectando el registro contable."
+62,Verificar y analizar operaciones no visualizadas en la cuenta de adquirencia del comercio Premium,"Análisis y verificación de operaciones que no están reflejadas en la cuenta de adquirencia del comercio, afectando el registro contable."
+63,Verificar y analizar operaciones no visualizadas en la cuenta de adquirencia del comercio VIP,"Análisis y verificación de operaciones que no están reflejadas en la cuenta de adquirencia del comercio, afectando el registro contable."
+64,Solicitud de documentos,"Peticiones y reclamos por documentos o certificaciones de productos financieros (extractos, paz y salvos, contratos, soportes), incluyendo requerimientos judiciales y de entes de control."
+65,Solicitud de documentos - Fianza FGA,"Peticiones formales de documentos y certificaciones relacionadas con la Fianza FGA (garantía de arrendamiento), incluyendo paz y salvos, contratos y soportes para trámites legales o contractuales."
+66,Solicitud de paz y salvo o Certificación de estado al día,Solicitudes para obtener documentos que certifiquen que el cliente está al día con sus obligaciones financieras.
+67,Solicitud de paz y salvo Premium,"Solicitud para generar un certificado de paz y salvo o un estado de cuenta al día, como soporte financiero."
+68,Solicitud de Extractos de Adquirencias - Incidencia,"Requerimiento para obtener extractos detallados relacionados con las adquirencias del comercio, incluyendo incidencias o problemas específicos."
+69,Solicitud de Extractos de Adquirencias - No tiene descargada la Macro,"Requerimiento para obtener extractos detallados relacionados con las adquirencias del comercio, incluyendo incidencias o problemas específicos."
+70,Solicitud de Extractos de Adquirencias - Otros,"Requerimiento para obtener extractos detallados relacionados con las adquirencias del comercio, incluyendo incidencias o problemas específicos."
+71,Débito automático no autorizado,"Débitos automáticos no autorizados o injustificados en cuentas, nóminas o pensiones, incluyendo seguros no contratados, cobros de terceros y descuentos excesivos sin respetar mínimo vital, frecuentemente acompañados de solicitudes de reversión."
+72,Descuentos injustificados,Reclamos por descuentos aplicados a cuentas o nóminas sin justificación.
+73,Libranzas - Ajuste de Pagos,Consultas o solicitudes para ajustar pagos aplicados a libranzas.
+74,Pagos por PSE,Reclamos generales relacionados con pagos procesados mediante la plataforma PSE.
+75,Pagos por PSE Premium,Incidencias relacionadas con pagos realizados a través de PSE por clientes Premium.
+76,Propuestas de negociaciones o acuerdos de pagos,Solicitudes o gestiones para establecer acuerdos o negociar pagos de obligaciones financieras.
+77,Quebrantos - Pagos bonos de paz riesgo reputación,Casos donde quebrantos financieros afectan pagos de bonos de paz y generan un impacto reputacional.
+78,Valor errado,Reclamos por errores en los valores reflejados en transacciones o documentos financieros.
+79,Fraude Internet,Incidencias generales relacionadas con fraudes realizados a través de internet.
+80,Fraude por internet no reconocido,Reclamos por transacciones fraudulentas realizadas en plataformas digitales no reconocidas por el cliente.
+81,Fraude Tarjeta de Crédito,Casos relacionados con transacciones fraudulentas realizadas con tarjetas de crédito del cliente.
+82,Fraude tarjeta débito otras redes tarjeta Débito,Reclamaciones por uso no autorizado de tarjetas débito en redes externas al banco.
+83,Ilícitos tarjeta crédito visa reintegros no cubiertos,Incidencias relacionadas con fraudes en tarjetas de crédito Visa que no están cubiertos por la entidad.
+84,Infidelidades no cubiertas fraude interno,Reclamos por pérdidas ocasionadas por empleados de la entidad en actividades no cubiertas por seguros internos.
+85,Ingeniería social Net Personas,Incidencias relacionadas con fraudes en la plataforma Net Personas utilizando ingeniería social.
+86,Ingeniería Social SCAM ATM,Casos de fraude en cajeros automáticos realizados mediante técnicas de ingeniería social.
+87,Lavado de activos,Reportes o casos sospechosos relacionados con actividades de lavado de activos identificadas por la entidad.
+88,Robos y atracos cajeros automáticos no cubiertos,Reclamos por robos ocurridos en cajeros automáticos que no están cubiertos por seguros de la entidad.
+89,Seguridad,Consultas o reclamos generales sobre políticas y medidas de seguridad implementadas por la entidad.
+90,Seguridad atracos,Incidencias relacionadas con atracos en instalaciones o durante operaciones bancarias.
+91,Seguridad en instalaciones,Reclamos o reportes relacionados con la seguridad física en las instalaciones del banco.
+92,Suplantación Cuenta Online,Incidencias de acceso no autorizado a cuentas en línea mediante la suplantación de identidad.
+93,Suplantación cuenta web,Casos relacionados con accesos no autorizados a cuentas bancarias a través de plataformas web.
+94,Suplantación presunta de persona,Reclamos por posibles casos de suplantación de identidad en procesos bancarios.
+95,Suplantación productos digitales,Incidencias de uso no autorizado de productos financieros digitales debido a suplantación de identidad.
+96,Suplantación SIM CARD,Reclamaciones relacionadas con la suplantación de la tarjeta SIM del cliente para acceder a productos bancarios.
+97,Uso fraudulento,Casos generales de uso indebido o no autorizado de productos financieros del cliente.
+98,Uso fraudulento en ventanilla,Reclamos por transacciones no autorizadas realizadas en ventanilla por personas no autorizadas.
+99,Vinculación presuntamente fraudulenta,Incidencias donde se sospecha de un proceso fraudulento en la vinculación de un producto o cuenta.
+100,Vishing,Reclamos relacionados con fraudes mediante llamadas telefónicas fraudulentas destinadas a obtener información confidencial del cliente.
+101,Entrega pagarés,Solicitudes para recibir pagarés relacionados con contratos financieros.
+102,Reliquidación intereses oficial ejercicio anterior,Ajustes en el cálculo de intereses generados en productos de clientes oficiales del ejercicio anterior.
+103,Solicitud de liquidación de prepago,Solicitudes para calcular la liquidación total en caso de realizar prepagos.
+104,Transferencias de divisas Revisión y/o liquidación,"Consultas o reclamos relacionados con transferencias internacionales, su liquidación o revisión."
+105,Abono no reconocido a través de Corresponsal Bancario VIP,Reclamos exclusivos de clientes VIP por abonos no reflejados realizados a través de corresponsales bancarios.
+106,Aclaración calificación en centrales de riesgo,Solicitudes para revisar o aclarar la calificación crediticia reflejada en centrales de riesgo.
+107,Aclaración de valores de primas y soporte de pólizas,Consultas sobre valores de primas de seguros y la documentación de respaldo.
+108,Aclaración y envío soportes gastos por pago de impuestos,Solicitudes para obtener aclaraciones y soportes relacionados con pagos de impuestos realizados.
+109,Admón. Cuenta Corriente Remunerada,Consultas o reclamos relacionados con la administración de cuentas corrientes con remuneración.
+110,Ajuste de pagos Altamira,Incidencias específicas relacionadas con ajustes en pagos procesados en Altamira.
+111,Alternativas de normalización,Consultas sobre opciones para regularizar deudas o saldos vencidos.
+112,Aplicación de abonos a capital o prepago de Leasing,Consultas o gestiones para aplicar pagos anticipados o abonos al capital de contratos de leasing.
+113,Aspectos contractuales (Incumplimiento y/o modificación) - Víctimas,Reclamos de clientes en condición de víctimas sobre incumplimientos o cambios no comunicados en contratos.
+114,Autorización para consultas o reportes a Centrales de Riesgo,Solicitudes para otorgar permisos relacionados con consultas en centrales de riesgo.
+115,Avalúos,Consultas relacionadas con avalúos de bienes necesarios para procesos financieros.
+116,Averías cajero off line,Reportes de fallas en cajeros automáticos que operan sin conexión.
+117,Billetes deteriorados,Consultas sobre la aceptación o cambio de billetes en mal estado.
+118,Billetes falsos,Incidencias relacionadas con la recepción de billetes falsos en operaciones bancarias.
+119,Bloqueo adelanto de nómina,Reclamos o gestiones para el bloqueo de adelantos de nómina no autorizados.
+120,Bloqueo de credito,Consultas o solicitudes relacionadas con el bloqueo preventivo de líneas de crédito.
+121,Cajero sin billetes,Reportes de cajeros automáticos sin disponibilidad de efectivo.
+122,Calificación cartera - Ley Borrón y Cuenta Nueva,Incidencias relacionadas con la recalificación de carteras bajo la normativa de la Ley Borrón y Cuenta Nueva.
+123,Calificación de cartera,Consultas sobre la calificación asignada a las carteras crediticias y su impacto.
+124,Cambios de fecha de pago,Solicitudes para ajustar o modificar las fechas de pago en productos financieros.
+125,Canales,"Quejas, consultas o sugerencias relacionadas con el uso de canales de atención como oficinas, call centers o digitales."
+126,Cancelación de garantías,Reclamos o solicitudes para cancelar garantías asociadas a productos financieros.
+127,Cancelación del portal net PIBE,Consultas o gestiones relacionadas con la desactivación del portal Net PIBE.
+128,Cancelación hipoteca,Solicitudes para cancelar hipotecas tras la liquidación de deudas asociadas.
+129,Cancelación titulo,Procesos relacionados con la cancelación de títulos financieros emitidos por la entidad.
+130,Cert Tributario Aclaración cifras certificadas,Consultas o solicitudes para aclarar cifras reportadas en certificados tributarios.
+131,Cert Tributario Error en valores Reportados,Reclamos relacionados con errores en los valores informados en los certificados tributarios.
+132,Certificación del activo en Leasing INMUEBLE-MAQUINARIA Premium,Gestión de solicitudes de clientes Premium para certificar activos de inmuebles o maquinaria bajo leasing.
+133,Certificación del activo en Leasing VEHICULO,Solicitudes para certificar activos relacionados con contratos de leasing de vehículos.
+134,Cheque de Gerencia,Consultas o incidencias relacionadas con la emisión o liquidación de cheques de gerencia.
+135,Cheque no pagado por firmas,Reclamos por cheques rechazados debido a discrepancias en las firmas registradas.
+136,Cheques devueltos,Incidencias relacionadas con cheques rechazados por el banco receptor por motivos específicos.
+137,Cliente viajero,Consultas o solicitudes especiales para clientes en tránsito o fuera de su lugar de residencia habitual.
+138,Compras con tecnología Token NFC,Reclamos o aclaraciones sobre pagos realizados mediante tecnología Token NFC en general.
+139,Compras con tecnología Token NFC G5,Incidencias o consultas sobre transacciones realizadas utilizando la tecnología Token NFC en dispositivos G5.
+140,Conocimiento,"Consultas relacionadas con la mejora en el conocimiento de productos, servicios o procesos internos de la entidad."
+141,Consignación duplicada,"Reclamos por consignaciones procesadas más de una vez, generando inconsistencias en los movimientos de la cuenta."
+142,Consignación errónea - Depósito en cheque Cajero Nivel 7,"Incidencias en cajeros de oficina por retiros, avances, depósitos o pagos registrados como exitosos pero con entrega parcial, sin entrega de efectivo o sin acreditación."
+143,Consignación errónea - Depósito en efectivo Cajero Nivel 4,Incidencias relacionadas con errores en consignaciones realizadas en efectivo en cajeros automáticos de nivel 4 (gestionados por oficina).
+144,Consignación errónea - Depósito en efectivo Cajero Nivel 7,Reclamos por errores en consignaciones realizadas en efectivo a través de cajeros automáticos de nivel 7
+145,Consulta de movimientos pago de nómina VIP,Solicitudes de clientes VIP para revisar movimientos asociados al pago de nómina.
+146,Contrato nuevo línea redescuentos - Víctimas,Casos relacionados con la creación de nuevos contratos de redescuentos para clientes en condición de víctimas.
+147,Copia extracto,Solicitudes para obtener copias de extractos de cuentas o productos financieros.
+148,Dación en pago,Gestión de procesos donde un cliente entrega un bien como forma de liquidar una deuda.
+149,Débito automático no realizado,Incidencias relacionadas con débitos automáticos programados que no se ejecutaron correctamente.
+150,Débito transferencia pero no abono a cuenta,"Reclamos por transferencias realizadas que fueron debitadas de la cuenta de origen, pero no acreditadas en la cuenta destino."
+151,Debitó y no entrego cajero internacional,Reclamos por transacciones en cajeros internacionales donde se debitó el monto pero no se entregó efectivo.
+152,Demora en la respuesta de una PQRS,Quejas por falta de respuesta o tiempos prolongados en la gestión de PQRS.
+153,Demora en la tramitación,Reclamos generales por retrasos en la gestión de solicitudes.
+154,Demora en la Tramitación - Ley Borrón y Cuenta Nueva,Quejas por demoras en trámites regulados bajo la Ley Borrón y Cuenta Nueva.
+155,Demora entrega de información,Incidencias relacionadas con la falta de entrega o retrasos en el suministro de información requerida.
+156,"Demora o no devolución de saldos, aportes o primas","Reclamos por la falta de devolución de saldos, aportes o primas pendientes."
+157,Demora o no entrega de la cotización y/o simulación,Quejas por demoras en la entrega de cotizaciones o simulaciones solicitadas por el cliente.
+158,Demora o no entrega del contrato o de la póliza,Incidencias relacionadas con retrasos en la entrega de contratos o pólizas solicitadas.
+159,Demora o no modificación de datos personales,Quejas por retrasos o falta de actualización de datos personales en sistemas bancarios.
+160,Depositario - Depósito en cheque Cajero Nivel 4,Reclamos sobre depósitos en cheque realizados en cajeros automáticos de nivel 4.
+161,Depositario - Depósito en efectivo Cajero Nivel 7,Consultas o reclamos específicos relacionados con depósitos en efectivo a través de un depositario.
+162,Depósito en efectivo cajero nivel 7,Incidencias relacionadas con depósitos en efectivo realizados en cajeros automáticos de nivel 7.
+163,Depósito remesas cheque BBVA,Quejas o solicitudes sobre remesas en forma de cheque no aplicadas correctamente.
+164,Descuentos en nómina,Consultas o reclamos sobre descuentos aplicados directamente a los ingresos por nómina.
+165,Despignoración y pignoración,Gestión de procesos para retirar o registrar pignoraciones sobre activos o bienes.
+166,Devolución IVA,Solicitudes relacionadas con la devolución de IVA en transacciones específicas.
+167,Diferencia en cambio,Consultas o reclamos por discrepancias en la conversión de divisas.
+168,Diferidos no conformes,"Reclamos relacionados con condiciones, tasas o plazos aplicados a pagos diferidos."
+169,Dificultad en el acceso a la información,"Reclamos por problemas para acceder a información relevante de cuentas, productos o transacciones."
+170,Doble aplicación del retiro,"Quejas por retiros procesados dos veces, afectando los fondos disponibles del cliente."
+171,Donaciones en ATM,Consultas o incidencias relacionadas con donaciones realizadas a través de cajeros automáticos.
+172,Duplicidad de la Información,Reclamos por la existencia de registros o datos duplicados en sistemas bancarios.
+173,El cliente no recibe extracto,Incidencias donde el cliente no ha recibido extractos bancarios de sus cuentas o productos.
+174,Entrega de dineros sin juicio de sucesión,Consultas o gestiones para la entrega de fondos en casos donde no se ha realizado un juicio de sucesión.
+175,Entregó dinero pero no quedó abonado a cuenta,Reclamos por depósitos realizados que no fueron reflejados en la cuenta del cliente.
+176,Envío soportes gastos por pago comparendos o servicios y derechos premium,Solicitudes de clientes Premium para la gestión y envío de soportes relacionados con pagos específicos.
+177,Error o falta de claridad en las cláusulas del contrato o de la póliza,Reclamos por cláusulas contractuales o de pólizas ambiguas o mal explicadas.
+178,Error Operativo,Incidencias relacionadas con fallos en procesos internos que afectan al cliente.
+179,Errores en la resolución de PQRS,"Reclamos por errores o inconsistencias en la respuesta o resolución de peticiones, quejas y reclamos."
+180,Exclusión de barrido por motor de recuperaciones,Solicitudes para excluir cuentas o montos del proceso automatizado de recuperaciones.
+181,Falencias en retenciòn,Quejas por errores o incumplimientos en la retención de impuestos o montos requeridos.
+182,Forma de abono (abono bruto- abono neto),"Solicitudes generales sobre las formas de abono en cuentas, diferenciando entre bruto y neto."
+183,Forma de abono (abono bruto- abono neto) Premium,Consultas específicas de clientes Premium sobre el método de abono en términos brutos o netos.
+184,Garantías y levantamiento de gravámenes - Víctimas,Solicitudes de clientes en condición de víctimas para gestionar garantías o levantamientos de gravámenes.
+185,Gastos de escrituración,Consultas o reclamaciones relacionadas con los costos involucrados en procesos de escrituración de bienes.
+186,Generación copias de contratos o de documentos del Leasing,Solicitudes para obtener copias de contratos o documentos asociados a contratos de leasing.
+187,Generación de poderes y autorizaciones MAQUINARIA,Emisión de documentos legales para la autorización de trámites específicos sobre maquinaria.
+188,Generación de poderes y autorizaciones maquinaria o inmuebles,Solicitudes de emisión de poderes para gestionar trámites legales vinculados a maquinaria o inmuebles.
+189,Generación de poderes y autorizaciones VEHICULO VIP,Gestión exclusiva para clientes VIP relacionada con la emisión de poderes y autorizaciones legales sobre vehículos.
+190,Gestión ante las Redes de Exoneración de ReteFuente,Solicitudes generales para tramitar exoneraciones de retención en la fuente a través de redes bancarias.
+191,Gestión ante las Redes de Exoneración de ReteFuente Premium,Solicitudes de clientes Premium para gestionar exoneraciones de retención en la fuente.
+192,Gestión ante las Redes de Exoneración de ReteFuente VIP,Solicitudes de clientes VIP para gestionar exoneraciones de retención en la fuente a través de redes.
+193,GLOMO - BANCA MÓVIL,Incidencias específicas relacionadas con el aplicativo GLOMO o Banca Móvil de la entidad.
+194,Históricos de Pagos,Consultas generales de clientes para obtener históricos de pagos realizados en productos financieros.
+195,Históricos de Pagos Premium,Solicitudes de clientes Premium para acceder a históricos detallados de pagos realizados.
+196,Históricos de Pagos VIP,Solicitudes exclusivas de clientes VIP para obtener históricos detallados de pagos realizados.
+197,Hurto celular,Casos específicos de robo de celulares que afectan la seguridad de las aplicaciones bancarias vinculadas.
+198,Hurto o Robo,Reclamaciones relacionadas con hurtos o robos que afectan los productos financieros del cliente.
+199,Imposibilidad comunicación con el canal,"Quejas por problemas de comunicación con los canales de atención, como call center, oficinas o digitales."
+200,Imposibilidad del Retiro completo del saldo,Incidencias donde el cliente no puede retirar la totalidad del saldo disponible en su cuenta.
+201,Impuestos o servicios públicos no aplicados,Reclamos relacionados con pagos de impuestos o servicios públicos que no se reflejan en el sistema.
+202,Incidencia Banca Móvil,Problemas o fallas reportadas en la utilización de la aplicación de Banca Móvil.
+203,Inconvenientes para el otorgamiento de nuevos contratos - Víctimas,Quejas de clientes en condición de víctimas por problemas al solicitar nuevos contratos financieros.
+204,Incremento en el valor de los intereses,Reclamos relacionados con incrementos inesperados o no autorizados en tasas de interés aplicadas.
+205,Incremento en el valor de los seguros,Quejas por aumentos en el costo de las primas o tarifas de seguros contratados con la entidad.
+206,Incremento en el valor de otros gastos,Reclamos por incrementos no informados en gastos relacionados con productos o servicios.
+207,Incremento en el valor de otros gastos - Fianza FGA,Quejas por aumentos inesperados en gastos asociados a fianzas gestionadas por el FGA.
+208,Incrementos de tarifas no pactadas o informadas,Reclamos por aumentos en tarifas que no fueron previamente pactados o comunicados al cliente.
+209,Indisponibilidad Net Cash,Incidencias relacionadas con la falta de acceso o problemas técnicos en la plataforma Net Cash.
+210,Información de Abonos de rechazos monetarios no reembolsados VIP,Consultas exclusivas de clientes VIP sobre abonos relacionados con rechazos monetarios que no han sido reembolsados.
+211,Insolvencia,Gestión de casos relacionados con la situación de insolvencia financiera del cliente.
+212,Ley 2300 de 2023 para gestión de cobranza - Intimidad,"Incidencias relacionadas con el cumplimiento de la Ley 2300, que regula la gestión de cobranza y protege la intimidad del cliente."
+213,Ley protección datos personales,"Reclamos relacionados con el manejo, tratamiento o uso indebido de los datos personales del cliente."
+214,Libranzas - Comisión estudio de crédito,Quejas sobre el cobro de comisiones por estudios de crédito vinculados a libranzas.
+215,Libranzas - Descuentos en nómina,Consultas o reclamos por descuentos aplicados a la nómina del cliente relacionados con libranzas.
+216,Libranzas - Saldos y movimientos no conformes,Quejas relacionadas con inconsistencias en saldos y movimientos de libranzas.
+217,Libranzas - Sobrantes Descuento por nómina y obligación cancelada,Reclamos por montos sobrantes tras descuentos en nómina de obligaciones ya canceladas.
+218,Limitación en la expedición de certificaciones,Incidencias por restricciones o demoras en la expedición de certificaciones solicitadas por el cliente.
+219,Límite de crédito,Consultas o reclamos relacionados con el límite de crédito asignado a un cliente o producto.
+220,Liquidación no conforme - Oficial,Reclamos por liquidaciones no conformes en cuentas o productos de clientes oficiales.
+221,Liquidación no conforme particular,Incidencias relacionadas con liquidaciones que no se ajustan a lo pactado para clientes particulares.
+222,Mal servicio prestado fuerza de ventas,Quejas por el servicio o información deficiente ofrecida por el equipo de ventas externo o interno.
+223,Mal servicio prestado funcionario,Reclamos por la atención o servicio deficiente brindado por un funcionario de la entidad.
+224,Mal servicio prestado proveedor,Quejas relacionadas con el servicio ofrecido por un proveedor externo vinculado con la entidad.
+225,Modificación de condiciones en contratos sin previa notificación al cliente,Reclamos por cambios en los términos de un contrato que no fueron comunicados previamente al cliente.
+226,Modificación de cupo disponible (recálculo),Consultas o solicitudes de ajuste en el cupo disponible tras un recálculo de condiciones o pagos.
+227,Operación no solicitada,Reclamos por operaciones procesadas sin haber sido solicitadas ni autorizadas por el cliente.
+228,Operaciones comercio exterior,"Gestión de incidencias relacionadas con operaciones de comercio exterior, como pagos internacionales o cartas de crédito."
+229,Operaciones pendientes de cobro,Consultas o reclamos por operaciones que permanecen pendientes de cobro y afectan la disponibilidad de los fondos.
+230,Orden de no pago no ejecutada,Reclamos relacionados con órdenes de no pago que no fueron ejecutadas correctamente por la entidad.
+231,Otra,Casos puntuales o excepcionales no categorizados previamente.
+232,Otros,Incidencias que no se clasifican en ninguna de las categorías específicas existentes.
+233,Otros asociados con Cert Trubutario,Consultas o reclamos relacionados con información adicional requerida en certificados tributarios.
+234,Pérdida de portafolio,Incidencias relacionadas con la pérdida de productos o servicios que conforman el portafolio del cliente.
+235,Precios,Consultas o reclamos relacionados con precios aplicados a productos y servicios ofrecidos por la entidad.
+236,Prescripción - Ley Borrón y Cuenta Nueva,Reclamos por la aplicación de la prescripción de obligaciones financieras bajo el amparo de la Ley Borrón y Cuenta Nueva.
+237,Prescripción de la Obligación,Consultas o procesos relacionados con la prescripción de obligaciones financieras conforme a la normativa.
+238,Procedimiento y Honorarios de Cobranza - Víctimas,Reclamos relacionados con los honorarios de cobranza aplicados a cuentas de clientes en condición de víctimas.
+239,Procedimiento y honorarios de cobranza ley borrón y cuenta nueva,Consultas o reclamos sobre los procedimientos y honorarios de cobranza según la Ley Borrón y Cuenta Nueva.
+240,Propuesta de negociación o acuerdo - Ley Borrón y Cuenta Nueva,Gestión de propuestas de negociación o acuerdos establecidos dentro de las disposiciones de esta ley.
+241,Publicidad Engañosa - Ley Borrón y Cuenta Nueva,Incidencias específicas relacionadas con publicidad engañosa bajo el marco de la Ley Borrón y Cuenta Nueva.
+242,Publicidad y promociones,Reclamos relacionados con publicidad engañosa o promociones que no cumplen con lo ofrecido.
+243,Puntos no asignados por retención,Quejas por la falta de acumulación de puntos en programas de lealtad debido a operaciones retenidas.
+244,Quebrantos - Pract. comerciales diferentes riesgo operacional,Reclamos sobre pérdidas relacionadas con prácticas comerciales que no están vinculadas directamente a riesgos operacionales.
+245,Recaudo nacional,Consultas o incidencias relacionadas con pagos y recaudos realizados a nivel nacional.
+246,Reintegro comisión estudio crédito anos anterior,Reclamos por el reintegro de comisiones cobradas previamente por estudios de crédito realizados en ejercicios anteriores.
+247,Reintegro Intereses por Contracargos,Ajustes en intereses generados por contracargos aplicados a transacciones del cliente.
+248,Reintegros especiales de calidad,Procesos relacionados con reintegros otorgados debido a fallas en la calidad del servicio o producto ofrecido.
+249,Relación comercial con el Banco,"Quejas o solicitudes relacionadas con la relación general del cliente con la entidad, como términos, condiciones o acuerdos."
+250,Reportes dian,Consultas o reclamaciones relacionadas con la información reportada a la Dirección de Impuestos y Aduanas Nacionales (DIAN).
+251,Retención de fondos,"Incidencias relacionadas con fondos retenidos por la entidad, ya sea en cuentas o transacciones."
+252,Retiros pinpad,Consultas o reclamos relacionados con retiros realizados a través de dispositivos PinPad.
+253,Revisión y anulación de transacciones,"Procesos para revisar y, si es necesario, anular transacciones realizadas."
+254,Revisión pago masivo,Verificación y ajustes en pagos masivos realizados por el cliente.
+255,Saldos y movimientos no conformes - Fianza FGA,Reclamos relacionados con saldos y movimientos asociados a fianzas gestionadas por el FGA.
+256,Score - Puntaje Buro,Consultas sobre el puntaje crediticio y cómo las acciones de la entidad han afectado el historial del cliente.
+257,Siniestros,Gestión de casos relacionados con siniestros reportados en seguros contratados.
+258,Sobrantes descuento por nómina y obligación cancelada,Reclamos por montos sobrantes no aplicados correctamente tras descuentos de nómina o cancelación de obligaciones.
+259,Sobregiro e intereses,Consultas o reclamos sobre sobregiros en cuentas y los intereses aplicados.
+260,Sustancias Alucinógenas,Incidencias legales o de seguridad asociadas con actividades prohibidas dentro del alcance de la entidad.
+261,Tasa Normalizada - Reintegro de Intereses,Reclamaciones por la normalización de tasas de interés y los reintegros relacionados.
+262,Tipo de abono (Remesas),Incidencias generales relacionadas con la categorización o aplicación de abonos de remesas.
+263,Tipo de abono (Remesas) VIP,Consultas de clientes VIP relacionadas con la clasificación y aplicación de abonos provenientes de remesas.
+264,Transacción cargada doblemente,Casos en los que una misma transacción fue procesada y debitada dos veces.
+265,Transacciones no reconocidas - Contracargo Convenio,Reclamos relacionados con contracargos generados en transacciones realizadas a través de convenios específicos.
+266,Transacciones no reconocidas - Páginas diferentes a BBVA NET,Quejas por transacciones realizadas en plataformas externas no autorizadas por el cliente.
+267,Tx no reconocidas - Phishing,"Reclamos por transacciones no reconocidas debido a fraudes de phishing, donde los datos del cliente fueron capturados de forma fraudulenta."
+268,Validación acuerdos y venta de cartera,Verificación y ajustes en acuerdos establecidos durante la venta de cartera.
+269,Venta de cartera,Gestión y reclamos relacionados con el proceso de venta de cartera a otras instituciones o entidades.
+270,Información sujeta a reserva,Consultas o reclamos relacionados con la disponibilidad o confidencialidad de información protegida por normativas legales.
+271,Cambio de periodicidad de visualización de adquirencias Premium,Solicitudes relacionadas con ajustes en la periodicidad para visualizar adquirencias en cuentas Premium.
+272,Conciliación de Adquirencia,Casos generales de conciliación en servicios de adquirencia.
+273,Conciliación de Adquirencia VIP,Gestión de conciliaciones relacionadas con adquirencia para clientes VIP.
+274,Reliquidación de Comisiones de Adquirencias,Ajustes en las comisiones cobradas por servicios de adquirencia en general.
+275,Reliquidación de Comisiones de Adquirencias Premium,Revisión de las comisiones aplicadas en procesos de adquirencia para clientes Premium.
+276,Gestión judicial y gastos procesales,Reclamos sobre los procedimientos judiciales y los gastos procesales involucrados.
+277,Honorarios y gastos procesales,Quejas relacionadas con los costos asociados a procesos judiciales o extrajudiciales.
+278,Procesos judiciales y medidas cautelares - Embargos,Reclamos o consultas relacionadas con embargos o medidas cautelares impuestas judicialmente.
+279,Impuesto cuatro por mil,Consultas o quejas sobre la aplicación del impuesto del 4x1000 en transacciones realizadas.
+280,Inconformidad compra,"Reclamos por discrepancias en compras o pagos con tarjeta en comercios (financiados o directos), incluyendo débitos duplicados, cargos indebidos, devoluciones no aplicadas o saldos a favor no reflejados."
+281,Inconformidad compra de cartera,Quejas relacionadas con las condiciones o el proceso de compra de cartera ofrecido por la entidad.
+282,Inconformidad con Aumento - Disminución de cupo,Reclamos por cambios no autorizados o inesperados en los límites de crédito asignados.
+283,Inconformidad con Cobro Honorarios de Cobranza,Quejas por cargos de honorarios relacionados con procesos de cobranza.
+284,Inconformidad con el pago mínimo,Consultas o reclamos por el cálculo o aplicación del pago mínimo en tarjetas de crédito u otros productos financieros.
+285,Inconformidad con la atención de la Agencia de Cobranzas,Reclamos por el servicio o la gestión brindada por una agencia de cobranzas contratada por la entidad.
+286,Inconformidad en autorización o aplicación de descuentos,Quejas por descuentos no aplicados o autorizados incorrectamente en productos o servicios.
+287,Inconformidad en compra internacional,Reclamos relacionados con discrepancias en transacciones o pagos realizados en compras internacionales.
+288,Inconformidad en el saldo de la deuda,Reportes de inconsistencias en el saldo pendiente de una deuda en comparación con lo esperado.
+289,Inconformidad en el saldo para cancelación total de la deuda - Bancoldex,Reclamos relacionados con discrepancias en el saldo reflejado para la cancelación total de deudas bajo el programa Bancoldex.
+290,Inconformidad en el saldo para cancelación total de la deuda - FINAGRO,Reportes de diferencias en el saldo total para liquidar deudas asociadas al programa FINAGRO.
+291,Inconformidad en el saldo para cancelación total de la deuda - Findeter,Reclamos por discrepancias en los saldos para cancelar deudas bajo el programa Findeter.
+292,Inconformidad en el saldo para cancelación total de la deuda - Redescuento - Otros,Quejas específicas por diferencias en el saldo indicado para la cancelación total de deudas relacionadas con redescuentos u otras líneas.
+293,Inconformidad en el saldo para cancelación total de la deuda,Quejas por diferencias entre el saldo comunicado y el real para la liquidación total de una deuda.
+294,Inconformidad en el saldo total de la deuda,Reclamos por diferencias en el saldo total reflejado de una deuda frente a lo esperado.
+295,Inconformidad garantías,Consultas o reclamos por inconsistencias en las garantías ofrecidas en productos o servicios financieros.
+296,Inconformidad importe recibido y ordenado,Casos en los que existe una discrepancia entre el monto ordenado y el recibido en una transacción.
+297,Inconformidad indemnización seguros deudores,Reclamos relacionados con la falta de pago o discrepancias en la indemnización de seguros para deudores.
+298,Inconformidad por cobros de terceros,Quejas por cargos realizados por terceros a través de productos o servicios contratados con la entidad.
+299,Inconformidad priority pass,Reportes por el incumplimiento o problemas asociados con el programa Priority Pass ofrecido a clientes.
+300,Inconformidad programa puntos,"Reclamos por el manejo o acumulación de puntos en programas de lealtad, incluyendo su redención."
+301,Inconformidad rediferidos,Quejas relacionadas con las condiciones o tasas aplicadas al proceso de rediferir pagos.
+302,Inconformidad tasa ofrecida ch,Reclamaciones por diferencias entre la tasa de interés ofrecida por el Centro Hipotecario (CH) y la aplicada.
+303,Inconformidad tasa ofrecida csf,Quejas por discrepancias entre la tasa de interés ofrecida por la Comercializadora de Servicios Financieros (CSF) y la aplicada.
+304,Incumplimiento acuerdo de pago por Banco - Ley Borrón y Cuenta Nueva,Casos en los que el banco no cumple con acuerdos de pago regulados por la Ley de Borrón y Cuenta Nueva.
+305,Incumplimiento de acuerdos de pago por banco,Situaciones en las que el banco no respeta los términos de acuerdos de pago establecidos con el cliente.
+306,Incumplimiento de condiciones,Reclamos por el incumplimiento de términos y condiciones acordados en productos o servicios.
+307,Incumplimiento de la oferta comercial,Casos en los que las condiciones ofrecidas en una promoción o producto financiero no se cumplen según lo prometido.
+308,Incumplimientos Acuerdos de Pago,Reportes de incumplimiento por parte de la entidad o el cliente en los acuerdos de pago previamente establecidos.
+309,Información deficiente o errada,Quejas generales por la entrega de información incompleta o incorrecta en cualquier canal de atención de la entidad.
+310,Información deficiente o errada en el extracto,Consultas o quejas por datos erróneos reflejados en el extracto del cliente.
+311,Información deficiente o errada suministrada por el call center,Incidencias relacionadas con información incorrecta o incompleta ofrecida por el call center.
+312,Información deficiente o errada suministrada por la fuerza de ventas externas,Reclamos por información incorrecta o insuficiente proporcionada por vendedores externos a la entidad.
+313,Información incompleta sobre VTU,Solicitudes de información adicional sobre Valores por Transferir (VTU) que no están detallados en los documentos.
+314,Información inconsistente en el extracto,Reportes de información incorrecta o inconsistencias en los extractos entregados al cliente.
+315,Negativa en recepción de una PQR,"Reclamaciones por la negativa de la entidad en aceptar una petición, queja o reclamo (PQR) del cliente."
+316,Negativa o dilación en el pago,Casos en los que se niega o retrasa el pago correspondiente al cliente por parte de la entidad.
+317,No aplicación de los protocolos para personas en condiciones especiales,Incidencias relacionadas con el incumplimiento de protocolos destinados a la atención de personas con condiciones especiales.
+318,No atención de contribuyentes en la red,Reclamos de contribuyentes por la falta de atención adecuada en oficinas o canales de la red.
+319,No recepción de billetes y/o monedas,Casos en los que clientes reportan no haber recibido billetes o monedas durante una transacción en oficinas o cajeros automáticos.
+320,No se aplicó beneficio tasa - Frech,Reclamos por la no aplicación de beneficios de tasas establecidas bajo el programa Frech.
+321,No se ha realizado el traspaso de vehículo,Incidencias en las que no se completó el proceso de traspaso de un vehículo adquirido mediante la entidad.
+322,Aplicación de pagos en contrato leasing,Revisión o ajuste de pagos aplicados a contratos de leasing para asegurar su correcta imputación.
+323,Adelanto de Nómina - Negación del producto,Rechazo de solicitudes para adelantos de nómina debido a políticas internas o criterios de elegibilidad.
+324,Cancelación de tarjetas Prepago sin re expedición con reintegro de saldos (hasta 5 tarjetas) VIP,"Gestión de solicitudes VIP para la cancelación de tarjetas prepago sin reemisión, incluyendo el reintegro de saldos pendientes."
+325,Cobro de gastos asociados al producto no informados al cliente,Quejas relacionadas con gastos adicionales que no fueron comunicados al cliente al momento de adquirir un producto financiero.
+326,Cobro en productos cuenta de ahorro inactivos,Reclamos por cobros aplicados a cuentas de ahorro que no han tenido actividad reciente.
+327,Cobro expedición Tarjeta App BBVA.,Incidencias relacionadas con el cobro por la expedición de tarjetas solicitadas a través de la App BBVA.
+328,Cuota manejo tarjeta de crédito master,Reclamos o solicitudes de información sobre la cuota de manejo aplicada a tarjetas de crédito Master.
+329,Cuota manejo tarjeta de crédito master sta,Consultas o quejas relacionadas con la cuota de manejo aplicada a tarjetas de crédito Master STA.
+330,Cuota manejo tarjeta de crédito visa,Solicitudes de aclaración o reclamos sobre cuotas de manejo en tarjetas de crédito Visa.
+331,Cuota manejo tarjeta de crédito visa tarjetón,Consultas específicas sobre el cobro de cuota de manejo en tarjetas de crédito Visa Tarjetón.
+332,Cuota manejo tarjeta debito maestro,Reclamos o solicitudes de información sobre la cuota de manejo aplicada a tarjetas Maestro.
+333,Cuota manejo visa debito,Consultas o quejas sobre el cobro de la cuota de manejo en tarjetas Visa débito.
+334,Cupo Rotativo - Negación del producto,Rechazo de solicitudes relacionadas con cupos rotativos por políticas internas de la entidad.
+335,Estado de la Tarjeta,"Consultas o problemas relacionados con el estado actual de una tarjeta, como bloqueos o activaciones pendientes."
+336,Extractos Tarjetas Efipago - solicitud de movimientos mayores a un mes VIP,Solicitudes de clientes VIP para obtener extractos de tarjetas Efipago con movimientos superiores a un mes.
+337,Negación del producto,Denegación de solicitudes de productos financieros por motivos generales.
+338,Negación del producto - Segmento de Riesgo,Solicitudes rechazadas debido a políticas de riesgo establecidas por la entidad.
+339,Tarjetas retenidas,Incidencias donde las tarjetas del cliente fueron retenidas en cajeros automáticos o puntos de servicio.
+340,Transacciones no reconocidas,"Transacciones no identificadas por el cliente en cualquier canal, requiriendo investigación y resolución."
+341,Transacciones no reconocidas - BBVA NET,Reclamaciones por transacciones no autorizadas realizadas a través del portal BBVA NET.
+342,Transacciones no reconocidas - Cambiazo,Casos en los que un tercero sustituyó la tarjeta del cliente por otra para realizar transacciones no autorizadas.
+343,Transacciones no reconocidas - Fishing,"Reclamos por fraudes relacionados con phishing, donde los datos del cliente fueron utilizados sin autorización."
+344,Transacciones no reconocidas - Hurto o Perdida,Transacciones no autorizadas realizadas tras el robo o pérdida de tarjetas u otros instrumentos financieros.
+345,Transacciones no reconocidas - Otro banco,Incidencias relacionadas con transacciones desconocidas realizadas a través de otros bancos.
+346,Transacciones no reconocidas - Posible clonación,Reclamaciones por transacciones no autorizadas debido a la posible clonación de tarjetas o cuentas.
+347,Transacciones no reconocidas - Vishing,Casos relacionados con fraudes mediante llamadas telefónicas (vishing) donde el cliente no reconoce transacciones realizadas.
+348,Transacciones no reconocidas BBVA Móvil,Reclamaciones de transacciones no autorizadas o reconocidas por el cliente a través de la aplicación BBVA Móvil.
+349,Pago de cheque falsificado o irregular,Incidencias relacionadas con cheques falsificados o con irregularidades que afectaron las operaciones del cliente.
+350,Pago debitado y no aplicado,"Pagos y transferencias debitados no aplicados, no recibidos o duplicados en el producto, servicio o entidad destino, incluyendo PSE, Transfiya, giros y corresponsales."
+351,Pago debitado y no aplicado recaudo nacional,"Incidencias en pagos de recaudo nacional debitados pero no aplicados o registrados correctamente, incluyendo facturas, impuestos y servicios."
+352,Pago duplicado,"Casos en los que un pago fue procesado más de una vez, generando cobros duplicados."
+353,Pago mal aplicado,Situaciones en las que un pago fue registrado en una cuenta o producto incorrecto.
+354,Pago masivo,Consultas o incidencias relacionadas con pagos de alto volumen o procesados en bloque.
+355,Pago no aplicado,Casos en los que un pago efectuado no se refleja en el sistema o cuenta correspondiente.
+356,Pago reversado,Situaciones en las que un pago realizado fue revertido y requiere verificación o ajuste.
+357,Pagos por PSE VIP,Incidencias relacionadas con pagos realizados a través de la plataforma PSE para clientes VIP.
+358,Penalidad por pago anticipado,Consultas o quejas relacionadas con penalidades aplicadas por pagos anticipados en productos financieros.
+359,Fallas del sistema,Interrupciones o errores en los sistemas tecnológicos que afectan la operación bancaria.
+360,Fallas o inoportunidad en el proceso de vinculación,Dificultades o demoras durante el proceso de vinculación de nuevos clientes o productos.
+361,Fallas red oficina,Problemas técnicos en la red de oficinas que afectan la prestación de servicios a los clientes.
+362,Sistema Débito de cuenta CNB no pago,Incidencia relacionada con el sistema de débito automático de cuentas CNB cuando no se realiza el pago correspondiente.
+363,Reliquidación intereses cdts oficial ejerc anter,
+364,Reliquidación intereses CDTs oficial ejercicio anterior,Ajustes en los intereses de CDTs emitidos por entidades oficiales correspondientes al año anterior.
+365,Reliquidación intereses CDTs privado ejercicio anterior,Corrección de cálculos de intereses generados en Certificados de Depósito a Término (CDTs) de clientes privados en el ejercicio anterior.
+366,Reliquidación intereses privado ejercicio anterior,Revisión y ajuste de intereses generados en productos financieros de clientes privados correspondientes al ejercicio anterior.
+367,Endosos de seguros,Atención a solicitudes de cambios en los titulares o beneficiarios de pólizas de seguro existentes.
+368,Liquidación de seguros,Proceso para liquidar pólizas de seguro al finalizar su vigencia o por cancelación anticipada.
+369,Seguros,"Gestión de consultas, incidencias o solicitudes relacionadas con seguros adquiridos a través de la entidad."
+370,Imposibilidad acceder al servicio,Caso relacionado con la imposibilidad de los clientes para acceder a servicios bancarios o productos debido a problemas técnicos o restricciones.
+371,Otros servicios,"Gestión de solicitudes o consultas que no se clasifican en las categorías habituales, abarcando temas diversos según las necesidades del cliente."
+372,Servicio brindado call center,"Evaluación de la calidad del servicio brindado por el call center, incluyendo atención al cliente y resolución de casos."
+373,Solicitud ajustes o Revisión casas de cobranzas,"Revisión de casos gestionados por casas de cobranza, incluyendo ajustes o correcciones necesarias en las cuentas."
+374,Solicitud de acuerdo de pago o Normalización,"Petición para establecer acuerdos de pago o normalizar una deuda pendiente, asegurando términos claros y viables para ambas partes."
+375,Solicitud de Audios,"Gestión de solicitudes para obtener grabaciones de interacciones realizadas en el call center, utilizadas como evidencia o referencia."
+376,Solicitud de Disminución de Tasa Actual - Retención,Petición para reducir la tasa de interés o retención aplicada a un crédito u obligación financiera.
+377,Solicitud de Exclusión Gestión de cobranza,Solicitud para excluir cuentas específicas de los procesos de gestión de cobranza debido a acuerdos o casos especiales.
+378,Solicitud detalle Comisiones - Circular 012,"Provisión de información detallada sobre las comisiones aplicadas, en cumplimiento con la Circular 012."
+379,Solicitudes por reclamaciones de contribuyentes,"Gestión de reclamaciones realizadas por contribuyentes relacionadas con pagos, retenciones o impuestos."
+380,Activación de tarjeta,"Procedimiento para habilitar una tarjeta nueva o reactivar una tarjeta bloqueada, asegurando su correcto funcionamiento."
+381,Bloqueo de tarjeta,"Proceso para bloquear o cancelar tarjetas de manera inmediata en caso de pérdida, robo o actividad sospechosa."
+382,Cupo rotativo - El cliente no recibe extracto,Atención de solicitudes de clientes sobre la falta de envío o recepción del extracto correspondiente a su cupo rotativo.
+383,Información tarjetas o claves no entregadas VIP,"Gestión de información sobre tarjetas o claves que no han sido entregadas a clientes VIP, asegurando la pronta resolución del problema."
+384,Cobro comisión retiros ATM,"Revisión de casos en los que se cobraron comisiones por retiros en cajeros automáticos, verificando si la transacción corresponde al cobro estipulado."
+385,Debitó y no entrego cajero nivel siete,"Incidencia en cajeros de nivel siete (oficina) donde se realizó el débito de una cuenta, pero no se entregó el dinero solicitado."
+386,Debitó y no entrego cajero otras redes,Caso relacionado con transacciones en cajeros automáticos de otras redes en las que se debitó un monto pero no se entregó el efectivo.
+387,Verificar cargo y/o abono por Depósito electrónico,Confirmación de la correcta aplicación de cargos y abonos derivados de transacciones de depósito electrónico en cuentas estándar.
+388,Verificar cargo y/o abono por Depósito electrónico Premium,Verificación específica de transacciones electrónicas en cuentas Premium para garantizar la correcta aplicación de depósitos o abonos.
+389,Verificar cargo y/o abono por Depósito electrónico VIP,"Revisión de transacciones de depósito electrónico asociadas a cuentas VIP, asegurando que los cargos o abonos se reflejen correctamente."

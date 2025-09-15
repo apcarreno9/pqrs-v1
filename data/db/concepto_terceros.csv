@@ -1,0 +1,562 @@
+Categoría,Tipología,Descripción,Casuística,Área responsable concepto,Información a solicitar
+Actualizaciones,Actualización custodios e información de domicilio VIP,Proceso relacionado con la actualización de información de custodios y domicilios para garantizar registros actualizados en el sistema.,,,
+Actualizaciones,Actualización de información de producto en Centrales de Riesgo,Solicitud para modificar o actualizar información de productos específicos en el Centro de Información.,,,
+Actualizaciones,Actualización de información personal en Centrales de Riesgo,"Cambio o corrección de datos personales en el Centro de Información, tales como dirección, teléfono o correo electrónico.",,,
+Actualizaciones,Actualización equivocada de datos personales,Corrección de datos personales ingresados de manera incorrecta debido a errores humanos o del sistema.,,,
+Actualizaciones,Actualización reporte por normalización - Ley Borrón y Cuenta Nueva,"Actualización de reportes por procesos de normalización según la Ley 2157, relacionada con la actualización de obligaciones financieras.",,,
+Actualizaciones,Actualización reporte por pago total - Ley Borrón y Cuenta Nueva,Proceso relacionado con la actualización de reportes tras el pago total de obligaciones financieras bajo el marco de la Ley Borrón y Cuenta Nueva,,,
+Adquirencia y Comercios,Cambio de periodicidad de visualización de adquirencias,Cambio en la frecuencia de visualización de adquirencias para ajustarse a las necesidades del usuario o de la institución.,,,
+Adquirencia y Comercios,Conciliación de Adquirencia Premium,Revisión y ajuste de los datos relacionados con la adquirencia premium para garantizar la precisión y consistencia financiera.,,,
+Adquirencia y Comercios,Solicitud de Extractos de Adquirencias - Otros - PREMIUM,Solicitud para la generación y entrega de extractos específicos relacionados con adquirencias premium bajo categorías personalizadas.,,,
+Alivios,Alivio - Barrido de cuotas,"Aplicación de un alivio financiero mediante el barrido o ajuste de cuotas, en beneficio del cliente.",,,
+Alivios,Alivio - Imposibilidad de seguir pagando,Situación en la que el cliente solicita un alivio financiero debido a la incapacidad de cumplir con los pagos de las cuotas pendientes.,,,
+Alivios,Alivio - Imposibilidad seguir pagando,Situación en la que el cliente solicita un alivio financiero debido a la incapacidad de cumplir con los pagos de las cuotas pendientes.,,,
+Alivios,Alivio - Inconformidad de liquidación de intereses periodo de gracia,"Solicitud para revisar y corregir la liquidación de intereses en un periodo de gracia, debido a una posible discrepancia percibida por el cliente.",,,
+Alivios,Alivio - Incumplimiento de Condiciones Alivio,Reclamo relacionado con el incumplimiento de las condiciones establecidas para un alivio financiero previamente acordado.,,,
+Alivios,Alivio - Solicitud,Petición formal para obtener un alivio financiero que permita al cliente ajustar su situación económica con la institución.,,,
+Alivios,Alivio - Solicitud ampliación,Petición formal para obtener un alivio financiero que permita al cliente ajustar su situación económica con la institución.,,,
+Alivios,Alivio - Solicitud de normalización,Petición formal para obtener un alivio financiero que permita al cliente ajustar su situación económica con la institución.,,,
+Alivios,Alivio -barrido de cuotas,"Aplicación de un alivio financiero mediante el barrido o ajuste de cuotas, en beneficio del cliente.",,,
+Atención al cliente,Debito y no entrego cajero administrado por la oficina,"Situación en la que el cajero automático realizó un débito a la cuenta del cliente pero no entregó el dinero solicitado, requiriendo una investigación.",,,
+Atención al cliente,El cliente no recibe extractos,"Incidente donde el cliente reporta no recibir sus extractos bancarios de forma oportuna, lo cual podría afectar su gestión financiera.",,,
+Atención al cliente,Inconformidad tasa ofrecida red de oficinas,Queja o reclamo relacionado con una discrepancia en la tasa ofrecida por la red de oficinas en comparación con las expectativas del cliente.,,,
+Atención al cliente,Infraestructura Oficina,"Reclamo o sugerencia sobre el estado físico, accesibilidad o adecuación de la infraestructura de una oficina bancaria.",,,
+Atención al cliente,Mal servicio prestado red de oficinas,Queja relacionada con una experiencia insatisfactoria en la atención brindada por la red de oficinas del banco.,,,
+Atención al cliente,Servicio brindado call center,"Feedback sobre la calidad del servicio recibido al interactuar con el call center, incluyendo tiempos de espera y resolución de consultas.",,,
+Atención al cliente,Servicio brindado casas de cobranza,Reclamo o comentario sobre el trato recibido o la gestión realizada por las casas de cobranza que representan al banco.,,,
+Atención al cliente,Servicio brindado oficina,"Evaluación o queja sobre el servicio ofrecido por los colaboradores en una oficina bancaria, incluyendo tiempos y calidad de atención.",,,
+Atención al cliente,Servicio brindado vendedores externos,Comentarios o reclamos relacionados con la calidad del servicio ofrecido por vendedores externos que representan al banco.,,,
+Atención y Servicio al Cliente,Atención lenta o deficiente,Reclamo por tiempos prolongados de atención o por una experiencia insatisfactoria en la resolución de consultas o problemas.,,,
+Atención y Servicio al Cliente,Tiempo de atención,"Preocupación o queja sobre el tiempo total requerido para ser atendido, tanto en oficinas como en otros canales del banco.",,,
+Cobranza y Deudas,Gestión de cobranza,"Comentarios sobre la manera en que se lleva a cabo el proceso de cobranza, incluyendo posibles desacuerdos con los métodos utilizados.",,,
+Cobranza y Deudas,Reestructuración deuda,"Solicitud o proceso relacionado con la reestructuración de una deuda existente, ajustando términos como plazos o tasas de interés para facilitar el pago.",,,
+Cobros,Cobro consulta de saldo,Reclamo o consulta relacionada con el cobro aplicado por la consulta de saldo en una cuenta o producto financiero,,,
+Cobros,Cobro cuota de administración,"Comentarios o reclamos sobre los cargos aplicados por la administración de un producto financiero, como cuentas de ahorro o corrientes.",,,
+Cobros,Cobro cuota de manejo,Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos como tarjetas de crédito o débito.,,,
+Cobros,Cobro cuota de manejo - Portafolio master,Revisión o reclamo sobre el cobro específico de la cuota de manejo asociada a productos del portafolio master del banco.,,,
+Cobros,Cobro cuota de manejo - Portafolio master Standar,"Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos específicos del portafolio, como tarjetas de crédito o débito.",,,
+Cobros,Cobro cuota de manejo - Portafolio tc visa,"Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos específicos del portafolio, como tarjetas de crédito o débito.",,,
+Cobros,Cobro cuota de manejo - Portafolio tc visa tarjetón,"Queja o duda sobre los cobros recurrentes asociados a la cuota de manejo de productos específicos del portafolio, como tarjetas de crédito o débito.",,,
+Cobros,Cobro cuota portafolio net PIBE,"Revisión o duda sobre cobros aplicados a transacciones dentro del portafolio Net PIBE del banco, relacionado con un servicio específico.",,,
+Cobros,Cobro de comisiones transacciones no exitosas otras redes,"Reclamo por cobros realizados a pesar de que las transacciones en otras redes no se completaron exitosamente, solicitando una revisión.",,,
+Cobros,Cobro duplicado de seguros,Reclamo sobre cobros duplicados relacionados con pólizas de seguros adquiridas con el banco.,,,
+Cobros,Cobro por operaciones fallidas en cajeros electrónicos,Queja por cobros realizados a pesar de que las operaciones en cajeros electrónicos no se completaron correctamente.,,,
+Cobros,Cobro servicios (Ley 2009 de 2019),Revisión de cobros relacionados con servicios financieros en el marco de la Ley 2009 de 2019.,,,
+Cobros,Cobro servicios o comisiones - Tarjetas de crédito,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su tarjeta de crédito,Cuota de manejo,Back Call Center,"1. Consulta en 3270 - MP0060, MP0052, MP0051, CA25, B401, BGP9.
+
+2. Se verifica en los movimientos si tiene el cobro de cuota de manejo, se valida condiciones (exoneración  natural) de la tarjeta, se valida si cuenta con abonos de nomina, de ser asi se procede a crear portafolio.
+
+3. Si la tarjeta es Mastercard, y el cliente cuenta tambien con tarjeta Visa se debe de validar que cumpla con la dualidad.
+
+4 Validar si el cliente cuenta con algun proceso de retencion a traves de Tp client, en este caso no se radica y se genera una toma de datos.
+
+5.Aplica para PMM si se incumplen con las condiciones del producto o del portafolio.Validar que el monto reclamado no supere los $159.986 y antecedentes por el mismo concepto.
+
+6.Si aplica al reinteregro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco. "
+,Cobro servicios o comisiones - Tarjetas de crédito,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su tarjeta de crédito,Reexpedición de tarjeta de crédito,Back Call Center,"1.Consulta en 3270 MP0051 - MP54 - MP0060.
+
+2. Se verifica en MP0051, el tipo de Bloqueo que tenga la TC, para identificar si se debe aplicar modelo TDC, o reintegro por PMM
+
+3. Se verifica en MP54, para validar fecha de bloqueo.
+
+4 . Se verifica en MP0060, el cobro realizado a la TC.
+
+5.Aplica para PMM cuando:
+
+*Se incumplen con las condiciones del producto.
+
+*.El cliente no maneja portafolio con la TC y se genera el cobro de comisión por re-expedición  debido a que genero el bloqueo por deterioro, teniendo en cuenta que esta comisión se exonera por la ley 2009.
+
+6.Validar que el monto reclamado no supere los $159.986 y antecedentes por el mismo concepto en los ultimos 6 meses.
+
+7.Si aplica al reinteregro pero supera monto de PMM, se debe solicitar autorización a funcionario banco. "
+,Cobro servicios o comisiones - Tarjetas de crédito,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su tarjeta de crédito,Comisión de retiro,Back Call Center,"1. Consulta en 3270 movimientos MP00-60 y MC30
+
+2.  Aplica para PMM cuando:
+
+*El cajero no entrego el dinero y se generó cobro de la comisión.
+
+*El cliente no maneja portafolio con la TC y se genera el cobro de comisión por avance en cajero, teniendo en cuenta que esta comisión se exonera por la ley 2009.
+
+3.Validar que el monto reclamado no supere los $159.986 y antecedentes por el mismo concepto en los ultimos 6 meses.
+
+4. Si aplica al reinteregro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco."
+,Cobro servicios o comisiones - Tarjetas de crédito,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su tarjeta de crédito,Comisión compra de cartera,Back Call Center,"1. Consulta de movimientos en 3270 MP00-60 cobro de comisión y cargo por concepto compra de cartera.
+
+2. Se evidencia doble cobro de comisión, sin embargo, solo registra un cargo por compra de cartera.
+
+3.En los movimientos no registra cargo por compra de cartera.
+
+4.Validar que el monto reclamado no supere los $159.986 y antecedentes por el mismo concepto en los últimos 6 meses.
+
+5.Si aplica al reintegro pero  supera monto de PMM, se debe solicitar autorización a funcionario Banco. "
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Comisión por retiros de ATM,Back Call Center,"1. Consulta 3270, CA25 - B401- MC30 - BGP9.
+
+2. Se verifica en CA25 que el cliente reciba abonos de nómina.
+
+3. Se verifica en BGP9 el tipo de portafolio que tiene activo el cliente.
+
+4. Se verifica en B401, el descuento por el concepto, fecha y valor.
+
+5. Se verifica en MC30, si el cliente realizo el retiro en ATM propio, otra entidad o internacional.
+
+6. Se verifica BGP7, el historial de portafolios. 
+
+7.Si aplica al reinteregro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco"
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Cuota de manejo,Back Call Center,"1. Consulta 3270 - CA25 - BGP9 - B401 -BGP7.
+
+2.Se consulta en CA25 que el cliente reciba abonos de nómina por los siguientes servicios.
+-Transferencias
+-Nóminas
+-Pensionados
+-Proveedores.
+
+3. Se verifica en BGP9 el tipo de portafolio y que este acorde a los productos o condiciones que maneja el cliente.
+
+4. Se verifica en B401 el cobro concepto (Cuota de manejo) y fecha.
+
+5. Se verifica BGP7, el historial de portafolios.
+
+6. Validar promedios B403 portafolio 173 (portafolio NO modificable).
+
+7. Validar si tiene TD amparadas (MP0051)
+
+8. validar si tiene otra cuenta de ahorros con TD activa CC 10 1-29.
+
+9. Si aplica al reinteregro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco."
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Comisión por transacción no exitosa,Back Call Center,"1. Validar en B401 fecha de cobro de comisión.
+
+2. Validar MC30 motivo por el cual se está cobrando la comisión (Error que generó el cajero)."
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Comisión por consulta de saldo,Back Call Center,"1. Consulta 3270, B401 - MC30 - CA25
+
+2. Se verifica en CA25 que el cliente reciba abonos de nomina.
+
+3. Se verifica en BGP9 el tipo de portafolio que tiene activo el cliente.
+
+4. Se verifica en B401, el descuento por el concepto, fecha y valor.
+
+5. Se verifica en MC30, si el cliente realizo el retiro en ATM propio otra entidad.
+
+6. Se verifica BGP7, el historial de portafolios. 
+
+7.Si aplica al reintegro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco."
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Comisión por retiro en oficina,Back Call Center,"1.Consulta 3270, B401 - CA25.
+
+2. Validar en B401 retiro y cobro de comisión.
+
+3. El cobro se genera en todos los casos.
+
+4. Para algunos nit empresariales  se tiene el beneficio de retiro por ventanilla para los empleados que laboren en dichas empresas. (validar Base emisores con oferta).
+
+5.Si aplica al reinteregro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco."
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Comisión de portafolio,Back Call Center,"1.Consulta en 3270, B401 - B403 - BGP9 - BGP7.
+
+2. Validar si tiene portafolio (BGP9-BGP7)  fecha de marcación y tipo de portafolio.
+
+3.Validar fecha de apertura de la cuenta (B402)
+
+4. Validar fecha del cobro (B401)
+
+5.Validar promedios mensuales portafolio 173 (B403).
+
+6.Si aplica al reinteregro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco"
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Cobro por donación en ATM,Back Call Center,"1.Consulta 3270 - B401 - MC30.
+
+2. Validar cobro en  B401, por concepto (Donacion ATM).
+
+3. Validar en MC30 la fecha del retiro.
+
+4.Si aplica al reintegro pero  supera monto de PMM, se debe solicitar autorización a funcionario banco."
+,Cobro servicios o comisiones - Cuentas de ahorro,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero de su cuenta de ahorros,Cobro por copia de extracto de comisión,Back Call Center,"1.Consulta 3270 - B401 
+
+2. Validar cobro en  B401, por concepto COM EXT.MM(comisión extractos magneticos) y el valor es de $27.300 para el 2024 (validar tarifario)."
+Cobros,Cobro Servicios o Comisiones Portafolio Empresas,Consulta o reclamo sobre cobros aplicados por servicios o comisiones no claros en el estado financiero.,,,
+Cobros,Cobro transferencias net PIBE,Duda o reclamo sobre comisiones aplicadas a transferencias realizadas a través de la plataforma Net PIBE.,,,
+Comisiones y Tarifas,Certificado costos financieros,Solicitud para obtener un certificado detallado de los costos financieros relacionados con productos o servicios bancarios.,,,
+Comisiones y Tarifas,Comisión cancelación anticipada,Queja o consulta sobre la comisión aplicada por la cancelación anticipada de un crédito o producto financiero.,,,
+Comisiones y Tarifas,Comisión consignación nacional,Duda o reclamo sobre los cobros aplicados a consignaciones nacionales realizadas en oficinas o canales del banco.,,,
+Comisiones y Tarifas,Comisión estudio de crédito,Consulta sobre el cobro de la comisión aplicada por el estudio previo para la aprobación de un crédito.,,,
+Comisiones y Tarifas,Comisión venta de chequeras,Queja sobre el cobro realizado por la venta de chequeras a clientes con cuentas corrientes.,,,
+Comisiones y Tarifas,Comisiones portafolio,Consulta o reclamo relacionado con las comisiones aplicadas a productos incluidos en el portafolio financiero del cliente.,,,
+Comisiones y Tarifas,Otras comisiones,Revisión de comisiones aplicadas que no están claramente detalladas en el estado de cuenta.,,,
+Cuentas y Saldos,Cuenta bloqueada,"Consulta o reclamo sobre una cuenta bloqueada, posiblemente debido a seguridad o falta de uso.",,,
+Cuentas y Saldos,Cuenta cancelada,Duda o inconformidad sobre la cancelación de una cuenta bancaria.,,,
+Cuentas y Saldos,Cuenta embargada,Queja o solicitud de información relacionada con una cuenta embargada debido a procesos legales.,,,
+Cuentas y Saldos,Histórico de Movimientos,Solicitud para obtener un registro detallado del histórico de movimientos en la cuenta del cliente.,"Si el movimiento es inferior a 1 año, el analista debe solicitarlo a través de la transacción wd ",,
+Cuentas y Saldos,Histórico de Movimientos Premium,Solicitud para obtener un registro detallado del histórico de movimientos en la cuenta del cliente.,,,
+Cuentas y Saldos,Histórico de Movimientos VIP,Solicitud para obtener un registro detallado del histórico de movimientos en la cuenta del cliente.,,,
+Cuentas y Saldos,Saldos y movimientos no conformes,Reclamo por discrepancias detectadas en los saldos y movimientos reportados en la cuenta del cliente.,,,
+Cuentas y Saldos,Verificar y analizar operaciones no visualizadas en la cuenta de adquirencia del comercio,"Análisis y verificación de operaciones que no están reflejadas en la cuenta de adquirencia del comercio, afectando el registro contable.",,,
+Cuentas y Saldos,Verificar y analizar operaciones no visualizadas en la cuenta de adquirencia del comercio Premium,"Análisis y verificación de operaciones que no están reflejadas en la cuenta de adquirencia del comercio, afectando el registro contable.",,,
+Cuentas y Saldos,Verificar y analizar operaciones no visualizadas en la cuenta de adquirencia del comercio VIP,"Análisis y verificación de operaciones que no están reflejadas en la cuenta de adquirencia del comercio, afectando el registro contable.",,,
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita certificado de su cuenta y no ha sido posible descargarlo por ningún canal.,Proveedor NTTDATA,Modelo certificado de productos
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita soportes de todos los abonos que han ingresado a su cuenta.,"Operaciones Captaciones
+Oficina responsable del abono
+Área central responsable del abono",Información de los movimientos de la cuenta
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,"Cliente solicita comprobante del pago o recaudo realizado a cualquiera de sus productos en ventanilla, el cual no le llego a su correo o lo quiere fisico.","Operaciones Captaciones
+Oficina responsable del abono",Información de los movimientos de la cuenta
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita paz y salvo de su tarjeta de crédito y no quiere recibir soporte en línea o dirigirse a la oficina. El producto debe estar cancelado.,Proveedor NTTDATA,Modelo de paz y salvo
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita soportes de apertura de productos.,Proveedor NTTDATA,Consulta de responsable de apertura de producto en aplicativo 3270 para luego escalar al área correspondiente.
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita certificado de deuda y la oficina no se lo brinda,Proveedor NTTDATA,Modelo de certificado de deuda
+Documentos y Certificaciones,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita certificación del total adeudado ya que se encuentra en proceso de negociación con casa de cobranza.,Recuperaciones,Confirmación de acuerdo de pago con el cliente y de saldo adeudado a confirmar al cliente
+,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita únicamente el envio del registro fílmico de operaciones realizadas en cajero automático BBVA,Proveedor NTTDATA,Registro de log de transacciones de cajero y grabaciones
+,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita únicamente el envio del registro fílmico de operaciones realizadas en cajero automático de otra red.,Entidad financiera dueña del cajero,Registro de log de transacciones de cajero y grabaciones
+,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,"Cliente solicita paz y salvo de su adelanto de nómina, exige un documento que lo certifique. Solo aplica si el producto está cancelado.",Proveedor NTTDATA,Paz y salvo de adelanto de nómina
+,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente solicita información  de sus pagos masivos como cesantías,Oficina responsable del pago,Detalle del pago masivo
+,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Solicitud de documentos por parte de entidad regulatoria,Oficina responsable,Documento solicitado por entidad regulatoria
+,Solicitud de documentos,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,Cliente manifiesta que le realizaron pagos por entidades con convenio para pagos masivos y que no ha recibido abono a su cuenta. No debe tener pagos masivos pendientes o vencidos.,Proveedor NTTDATA,Consulta de los pagos masivos por convenio del cliente.
+Documentos y Certificaciones,Solicitud de documentos - Fianza FGA,Petición formal para obtener documentos relacionados con la gestión de cuentas o productos específicos.,,,
+Documentos y Certificaciones,Solicitud de paz y salvo o Certificación de estado al día,Solicitudes para obtener documentos que certifiquen que el cliente está al día con sus obligaciones financieras.,,,
+Documentos y Certificaciones,Solicitud de paz y salvo Premium,"Solicitud para generar un certificado de paz y salvo o un estado de cuenta al día, como soporte financiero.",,,
+Documentos y Certificaciones,Solicitud de Extractos de Adquirencias - Incidencia,"Requerimiento para obtener extractos detallados relacionados con las adquirencias del comercio, incluyendo incidencias o problemas específicos.",,,
+Documentos y Certificaciones,Solicitud de Extractos de Adquirencias - No tiene descargada la Macro,"Requerimiento para obtener extractos detallados relacionados con las adquirencias del comercio, incluyendo incidencias o problemas específicos.",,,
+Documentos y Certificaciones,Solicitud de Extractos de Adquirencias - Otros,"Requerimiento para obtener extractos detallados relacionados con las adquirencias del comercio, incluyendo incidencias o problemas específicos.",,,
+Errores en facturación o cobros,Débito automático no autorizado,Incidencias donde se realizaron débitos automáticos sin la autorización del cliente,,No aplica,No aplica
+Errores en facturación o cobros,Descuentos injustificados,Reclamos por descuentos aplicados a cuentas o nóminas sin justificación.,,EMISIONTARJETAS (OPERACIONES TARJETAS),"- Valor debitado de la cuenta 
+- Valor real de la compra
+- Número de autorización
+- Fecha
+- Número de tarjeta débito 
+- Nombre del comercio"
+Errores en facturación o cobros,Libranzas - Ajuste de Pagos,Consultas o solicitudes para ajustar pagos aplicados a libranzas.,,,
+Errores en facturación o cobros,Pagos por PSE,Reclamos generales relacionados con pagos procesados mediante la plataforma PSE.,,,
+Errores en facturación o cobros,Pagos por PSE Premium,Incidencias relacionadas con pagos realizados a través de PSE por clientes Premium.,,,
+Errores en facturación o cobros,Propuestas de negociaciones o acuerdos de pagos,Solicitudes o gestiones para establecer acuerdos o negociar pagos de obligaciones financieras.,,,
+Errores en facturación o cobros,Quebrantos - Pagos bonos de paz riesgo reputación,Casos donde quebrantos financieros afectan pagos de bonos de paz y generan un impacto reputacional.,,,
+Errores en facturación o cobros,Valor errado,Reclamos por errores en los valores reflejados en transacciones o documentos financieros.,,,
+Fraude o seguridad,Fraude Internet,Incidencias generales relacionadas con fraudes realizados a través de internet.,,,
+Fraude o seguridad,Fraude por internet no reconocido,Reclamos por transacciones fraudulentas realizadas en plataformas digitales no reconocidas por el cliente.,,,
+Fraude o seguridad,Fraude Tarjeta de Crédito,Casos relacionados con transacciones fraudulentas realizadas con tarjetas de crédito del cliente.,,,
+Fraude o seguridad,Fraude tarjeta débito otras redes tarjeta Débito,Reclamaciones por uso no autorizado de tarjetas débito en redes externas al banco.,,,
+Fraude o seguridad,Ilícitos tarjeta crédito visa reintegros no cubiertos,Incidencias relacionadas con fraudes en tarjetas de crédito Visa que no están cubiertos por la entidad.,,,
+Fraude o seguridad,Infidelidades no cubiertas fraude interno,Reclamos por pérdidas ocasionadas por empleados de la entidad en actividades no cubiertas por seguros internos.,,,
+Fraude o seguridad,Ingeniería social Net Personas,Incidencias relacionadas con fraudes en la plataforma Net Personas utilizando ingeniería social.,,,
+Fraude o seguridad,Ingeniería Social SCAM ATM,Casos de fraude en cajeros automáticos realizados mediante técnicas de ingeniería social.,,,
+Fraude o seguridad,Lavado de activos,Reportes o casos sospechosos relacionados con actividades de lavado de activos identificadas por la entidad.,,,
+Fraude o seguridad,Robos y atracos cajeros automáticos no cubiertos,Reclamos por robos ocurridos en cajeros automáticos que no están cubiertos por seguros de la entidad.,,,
+Fraude o seguridad,Seguridad,Consultas o reclamos generales sobre políticas y medidas de seguridad implementadas por la entidad.,,,
+Fraude o seguridad,Seguridad atracos,Incidencias relacionadas con atracos en instalaciones o durante operaciones bancarias.,,,
+Fraude o seguridad,Seguridad en instalaciones,Reclamos o reportes relacionados con la seguridad física en las instalaciones del banco.,,,
+Fraude o seguridad,Suplantación Cuenta Online,Incidencias de acceso no autorizado a cuentas en línea mediante la suplantación de identidad.,,,
+Fraude o seguridad,Suplantación cuenta web,Casos relacionados con accesos no autorizados a cuentas bancarias a través de plataformas web.,,,
+Fraude o seguridad,Suplantación presunta de persona,Reclamos por posibles casos de suplantación de identidad en procesos bancarios.,,,
+Fraude o seguridad,Suplantación productos digitales,Incidencias de uso no autorizado de productos financieros digitales debido a suplantación de identidad.,,,
+Fraude o seguridad,Suplantación SIM CARD,Reclamaciones relacionadas con la suplantación de la tarjeta SIM del cliente para acceder a productos bancarios.,,,
+Fraude o seguridad,Uso fraudulento,Casos generales de uso indebido o no autorizado de productos financieros del cliente.,,,
+Fraude o seguridad,Uso fraudulento en ventanilla,Reclamos por transacciones no autorizadas realizadas en ventanilla por personas no autorizadas.,,,
+Fraude o seguridad,Vinculación presuntamente fraudulenta,Incidencias donde se sospecha de un proceso fraudulento en la vinculación de un producto o cuenta.,,,
+Fraude o seguridad,Vishing,Reclamos relacionados con fraudes mediante llamadas telefónicas fraudulentas destinadas a obtener información confidencial del cliente.,,,
+Garantías y devoluciones,Entrega pagarés,Solicitudes para recibir pagarés relacionados con contratos financieros.,,,
+Garantías y devoluciones,Reliquidación intereses oficial ejercicio anterior,Ajustes en el cálculo de intereses generados en productos de clientes oficiales del ejercicio anterior.,,,
+Garantías y devoluciones,Solicitud de liquidación de prepago,Solicitudes para calcular la liquidación total en caso de realizar prepagos.,,,
+Garantías y devoluciones,Transferencias de divisas Revisión y/o liquidación,"Consultas o reclamos relacionados con transferencias internacionales, su liquidación o revisión.",,,
+Gestión administrativa,Abono no reconocido a través de Corresponsal Bancario VIP,Reclamos exclusivos de clientes VIP por abonos no reflejados realizados a través de corresponsales bancarios.,,,
+Gestión administrativa,Aclaración calificación en centrales de riesgo,Solicitudes para revisar o aclarar la calificación crediticia reflejada en centrales de riesgo.,,,
+Gestión administrativa,Aclaración de valores de primas y soporte de pólizas,Consultas sobre valores de primas de seguros y la documentación de respaldo.,,,
+Gestión administrativa,Aclaración y envío soportes gastos por pago de impuestos,Solicitudes para obtener aclaraciones y soportes relacionados con pagos de impuestos realizados.,,,
+Gestión administrativa,Admón. Cuenta Corriente Remunerada,Consultas o reclamos relacionados con la administración de cuentas corrientes con remuneración.,,,
+Gestión administrativa,Ajuste de pagos Altamira,Incidencias específicas relacionadas con ajustes en pagos procesados en Altamira.,,,
+Gestión administrativa,Alternativas de normalización,Consultas sobre opciones para regularizar deudas o saldos vencidos.,,,
+Gestión administrativa,Aplicación de abonos a capital o prepago de Leasing,Consultas o gestiones para aplicar pagos anticipados o abonos al capital de contratos de leasing.,,,
+Gestión administrativa,Aspectos contractuales (Incumplimiento y/o modificación) - Víctimas,Reclamos de clientes en condición de víctimas sobre incumplimientos o cambios no comunicados en contratos.,,,
+Gestión administrativa,Autorización para consultas o reportes a Centrales de Riesgo,Solicitudes para otorgar permisos relacionados con consultas en centrales de riesgo.,,,
+Gestión administrativa,Avalúos,Consultas relacionadas con avalúos de bienes necesarios para procesos financieros.,,,
+Gestión administrativa,Averías cajero off line,Reportes de fallas en cajeros automáticos que operan sin conexión.,,,
+Gestión administrativa,Billetes deteriorados,Consultas sobre la aceptación o cambio de billetes en mal estado.,,,
+Gestión administrativa,Billetes falsos,Incidencias relacionadas con la recepción de billetes falsos en operaciones bancarias.,,,
+Gestión administrativa,Bloqueo adelanto de nómina,Reclamos o gestiones para el bloqueo de adelantos de nómina no autorizados.,,,
+Gestión administrativa,Bloqueo de credito,Consultas o solicitudes relacionadas con el bloqueo preventivo de líneas de crédito.,,,
+Gestión administrativa,Cajero sin billetes,Reportes de cajeros automáticos sin disponibilidad de efectivo.,,,
+Gestión administrativa,Calificación cartera - Ley Borrón y Cuenta Nueva,Incidencias relacionadas con la recalificación de carteras bajo la normativa de la Ley Borrón y Cuenta Nueva.,,,
+Gestión administrativa,Calificación de cartera,Consultas sobre la calificación asignada a las carteras crediticias y su impacto.,,,
+Gestión administrativa,Cambios de fecha de pago,Solicitudes para ajustar o modificar las fechas de pago en productos financieros.,,,
+Gestión administrativa,Canales,"Quejas, consultas o sugerencias relacionadas con el uso de canales de atención como oficinas, call centers o digitales.",,,
+Gestión administrativa,Cancelación de garantías,Reclamos o solicitudes para cancelar garantías asociadas a productos financieros.,,,
+Gestión administrativa,Cancelación del portal net PIBE,Consultas o gestiones relacionadas con la desactivación del portal Net PIBE.,,,
+Gestión administrativa,Cancelación hipoteca,Solicitudes para cancelar hipotecas tras la liquidación de deudas asociadas.,,,
+Gestión administrativa,Cancelación titulo,Procesos relacionados con la cancelación de títulos financieros emitidos por la entidad.,,,
+Gestión administrativa,Cert Tributario Aclaración cifras certificadas,Consultas o solicitudes para aclarar cifras reportadas en certificados tributarios.,,,
+Gestión administrativa,Cert Tributario Error en valores Reportados,Reclamos relacionados con errores en los valores informados en los certificados tributarios.,,,
+Gestión administrativa,Certificación del activo en Leasing INMUEBLE-MAQUINARIA Premium,Gestión de solicitudes de clientes Premium para certificar activos de inmuebles o maquinaria bajo leasing.,,,
+Gestión administrativa,Certificación del activo en Leasing VEHICULO,Solicitudes para certificar activos relacionados con contratos de leasing de vehículos.,,,
+Gestión administrativa,Cheque de Gerencia,Consultas o incidencias relacionadas con la emisión o liquidación de cheques de gerencia.,,,
+Gestión administrativa,Cheque no pagado por firmas,Reclamos por cheques rechazados debido a discrepancias en las firmas registradas.,,,
+Gestión administrativa,Cheques devueltos,Incidencias relacionadas con cheques rechazados por el banco receptor por motivos específicos.,,,
+Gestión administrativa,Cliente viajero,Consultas o solicitudes especiales para clientes en tránsito o fuera de su lugar de residencia habitual.,,,
+Gestión administrativa,Compras con tecnología Token NFC,Reclamos o aclaraciones sobre pagos realizados mediante tecnología Token NFC en general.,,,
+Gestión administrativa,Compras con tecnología Token NFC G5,Incidencias o consultas sobre transacciones realizadas utilizando la tecnología Token NFC en dispositivos G5.,,,
+Gestión administrativa,Conocimiento,"Consultas relacionadas con la mejora en el conocimiento de productos, servicios o procesos internos de la entidad.",,,
+Gestión administrativa,Consignación duplicada,"Reclamos por consignaciones procesadas más de una vez, generando inconsistencias en los movimientos de la cuenta.",,,
+Gestión administrativa,Consignación errónea - Depósito en cheque Cajero Nivel 7,Quejas por consignaciones realizadas en cheque a través de cajeros de nivel 7 con errores en la aplicación.,,,
+Gestión administrativa,Consignación errónea - Depósito en efectivo Cajero Nivel 4,Incidencias relacionadas con errores en consignaciones realizadas en efectivo en cajeros automáticos de nivel 4 (gestionados por oficina).,,,
+Gestión administrativa,Consignación errónea - Depósito en efectivo Cajero Nivel 7,Reclamos por errores en consignaciones realizadas en efectivo a través de cajeros automáticos de nivel 7,,,
+Gestión administrativa,Consulta de movimientos pago de nómina VIP,Solicitudes de clientes VIP para revisar movimientos asociados al pago de nómina.,,,
+Gestión administrativa,Contrato nuevo línea redescuentos - Víctimas,Casos relacionados con la creación de nuevos contratos de redescuentos para clientes en condición de víctimas.,,,
+Gestión administrativa,Copia extracto,Solicitudes para obtener copias de extractos de cuentas o productos financieros.,,,
+Gestión administrativa,Dación en pago,Gestión de procesos donde un cliente entrega un bien como forma de liquidar una deuda.,,,
+Gestión administrativa,Débito transferencia pero no abono a cuenta,"Reclamos por transferencias realizadas que fueron debitadas de la cuenta de origen, pero no acreditadas en la cuenta destino.",,,
+Gestión administrativa,Debitó y no entrego cajero internacional,Reclamos por transacciones en cajeros internacionales donde se debitó el monto pero no se entregó efectivo.,,,
+Gestión administrativa,Demora en la respuesta de una PQRS,Quejas por falta de respuesta o tiempos prolongados en la gestión de PQRS.,,,
+Gestión administrativa,Demora en la tramitación,Reclamos generales por retrasos en la gestión de solicitudes.,,,
+Gestión administrativa,Demora en la Tramitación - Ley Borrón y Cuenta Nueva,Quejas por demoras en trámites regulados bajo la Ley Borrón y Cuenta Nueva.,,,
+Gestión administrativa,Demora entrega de información,Incidencias relacionadas con la falta de entrega o retrasos en el suministro de información requerida.,,,
+Gestión administrativa,"Demora o no devolución de saldos, aportes o primas","Reclamos por la falta de devolución de saldos, aportes o primas pendientes.",,,
+Gestión administrativa,Demora o no entrega de la cotización y/o simulación,Quejas por demoras en la entrega de cotizaciones o simulaciones solicitadas por el cliente.,,,
+Gestión administrativa,Demora o no entrega del contrato o de la póliza,Incidencias relacionadas con retrasos en la entrega de contratos o pólizas solicitadas.,,,
+Gestión administrativa,Demora o no modificación de datos personales,Quejas por retrasos o falta de actualización de datos personales en sistemas bancarios.,,,
+Gestión administrativa,Depositario - Depósito en cheque Cajero Nivel 4,Reclamos sobre depósitos en cheque realizados en cajeros automáticos de nivel 4.,,,
+Gestión administrativa,Depositario - Depósito en efectivo Cajero Nivel 7,Consultas o reclamos específicos relacionados con depósitos en efectivo a través de un depositario.,,,
+Gestión administrativa,Depósito en efectivo cajero nivel 7,Incidencias relacionadas con depósitos en efectivo realizados en cajeros automáticos de nivel 7.,,,
+Gestión administrativa,Depósito remesas cheque BBVA,Quejas o solicitudes sobre remesas en forma de cheque no aplicadas correctamente.,,,
+Gestión administrativa,Descuentos en nómina,Consultas o reclamos sobre descuentos aplicados directamente a los ingresos por nómina.,,,
+Gestión administrativa,Despignoración y pignoración,Gestión de procesos para retirar o registrar pignoraciones sobre activos o bienes.,,,
+Gestión administrativa,Devolución IVA,Solicitudes relacionadas con la devolución de IVA en transacciones específicas.,,,
+Gestión administrativa,Diferencia en cambio,Consultas o reclamos por discrepancias en la conversión de divisas.,,,
+Gestión administrativa,Diferidos no conformes,"Reclamos relacionados con condiciones, tasas o plazos aplicados a pagos diferidos.",,,
+Gestión administrativa,Dificultad en el acceso a la información,"Reclamos por problemas para acceder a información relevante de cuentas, productos o transacciones.",,,
+Gestión administrativa,Doble aplicación del retiro,"Quejas por retiros procesados dos veces, afectando los fondos disponibles del cliente.",,,
+Gestión administrativa,Donaciones en ATM,Consultas o incidencias relacionadas con donaciones realizadas a través de cajeros automáticos.,,,
+Gestión administrativa,Duplicidad de la Información,Reclamos por la existencia de registros o datos duplicados en sistemas bancarios.,,,
+Gestión administrativa,El cliente no recibe extracto,Incidencias donde el cliente no ha recibido extractos bancarios de sus cuentas o productos.,,,
+Gestión administrativa,Entrega de dineros sin juicio de sucesión,Consultas o gestiones para la entrega de fondos en casos donde no se ha realizado un juicio de sucesión.,,,
+Gestión administrativa,Entregó dinero pero no quedó abonado a cuenta,Reclamos por depósitos realizados que no fueron reflejados en la cuenta del cliente.,,,
+Gestión administrativa,Envío soportes gastos por pago comparendos o servicios y derechos premium,Solicitudes de clientes Premium para la gestión y envío de soportes relacionados con pagos específicos.,,,
+Gestión administrativa,Error o falta de claridad en las cláusulas del contrato o de la póliza,Reclamos por cláusulas contractuales o de pólizas ambiguas o mal explicadas.,,,
+Gestión administrativa,Error Operativo,Incidencias relacionadas con fallos en procesos internos que afectan al cliente.,,,
+Gestión administrativa,Errores en la resolución de PQRS,"Reclamos por errores o inconsistencias en la respuesta o resolución de peticiones, quejas y reclamos.",,,
+Gestión administrativa,Exclusión de barrido por motor de recuperaciones,Solicitudes para excluir cuentas o montos del proceso automatizado de recuperaciones.,,,
+Gestión administrativa,Falencias en retenciòn,Quejas por errores o incumplimientos en la retención de impuestos o montos requeridos.,,,
+Gestión administrativa,Forma de abono (abono bruto- abono neto),"Solicitudes generales sobre las formas de abono en cuentas, diferenciando entre bruto y neto.",,,
+Gestión administrativa,Forma de abono (abono bruto- abono neto) Premium,Consultas específicas de clientes Premium sobre el método de abono en términos brutos o netos.,,,
+Gestión administrativa,Garantías y levantamiento de gravámenes - Víctimas,Solicitudes de clientes en condición de víctimas para gestionar garantías o levantamientos de gravámenes.,,,
+Gestión administrativa,Gastos de escrituración,Consultas o reclamaciones relacionadas con los costos involucrados en procesos de escrituración de bienes.,,,
+Gestión administrativa,Generación copias de contratos o de documentos del Leasing,Solicitudes para obtener copias de contratos o documentos asociados a contratos de leasing.,,,
+Gestión administrativa,Generación de poderes y autorizaciones MAQUINARIA,Emisión de documentos legales para la autorización de trámites específicos sobre maquinaria.,,,
+Gestión administrativa,Generación de poderes y autorizaciones maquinaria o inmuebles,Solicitudes de emisión de poderes para gestionar trámites legales vinculados a maquinaria o inmuebles.,,,
+Gestión administrativa,Generación de poderes y autorizaciones VEHICULO VIP,Gestión exclusiva para clientes VIP relacionada con la emisión de poderes y autorizaciones legales sobre vehículos.,,,
+Gestión administrativa,Gestión ante las Redes de Exoneración de ReteFuente,Solicitudes generales para tramitar exoneraciones de retención en la fuente a través de redes bancarias.,,,
+Gestión administrativa,Gestión ante las Redes de Exoneración de ReteFuente Premium,Solicitudes de clientes Premium para gestionar exoneraciones de retención en la fuente.,,,
+Gestión administrativa,Gestión ante las Redes de Exoneración de ReteFuente VIP,Solicitudes de clientes VIP para gestionar exoneraciones de retención en la fuente a través de redes.,,,
+Gestión administrativa,GLOMO - BANCA MÓVIL,Incidencias específicas relacionadas con el aplicativo GLOMO o Banca Móvil de la entidad.,,,
+Gestión administrativa,Históricos de Pagos,Consultas generales de clientes para obtener históricos de pagos realizados en productos financieros.,,,
+Gestión administrativa,Históricos de Pagos Premium,Solicitudes de clientes Premium para acceder a históricos detallados de pagos realizados.,,,
+Gestión administrativa,Históricos de Pagos VIP,Solicitudes exclusivas de clientes VIP para obtener históricos detallados de pagos realizados.,,,
+Gestión administrativa,Hurto celular,Casos específicos de robo de celulares que afectan la seguridad de las aplicaciones bancarias vinculadas.,,,
+Gestión administrativa,Hurto o Robo,Reclamaciones relacionadas con hurtos o robos que afectan los productos financieros del cliente.,,,
+Gestión administrativa,Imposibilidad comunicación con el canal,"Quejas por problemas de comunicación con los canales de atención, como call center, oficinas o digitales.",,,
+Gestión administrativa,Imposibilidad del Retiro completo del saldo,Incidencias donde el cliente no puede retirar la totalidad del saldo disponible en su cuenta.,,,
+Gestión administrativa,Impuestos o servicios públicos no aplicados,Reclamos relacionados con pagos de impuestos o servicios públicos que no se reflejan en el sistema.,,,
+Gestión administrativa,Incidencia Banca Móvil,Problemas o fallas reportadas en la utilización de la aplicación de Banca Móvil.,,,
+Gestión administrativa,Inconvenientes para el otorgamiento de nuevos contratos - Víctimas,Quejas de clientes en condición de víctimas por problemas al solicitar nuevos contratos financieros.,,,
+Gestión administrativa,Incremento en el valor de los intereses,Reclamos relacionados con incrementos inesperados o no autorizados en tasas de interés aplicadas.,,,
+Gestión administrativa,Incremento en el valor de los seguros,Quejas por aumentos en el costo de las primas o tarifas de seguros contratados con la entidad.,,,
+Gestión administrativa,Incremento en el valor de otros gastos,Reclamos por incrementos no informados en gastos relacionados con productos o servicios.,,,
+Gestión administrativa,Incremento en el valor de otros gastos - Fianza FGA,Quejas por aumentos inesperados en gastos asociados a fianzas gestionadas por el FGA.,,,
+Gestión administrativa,Incrementos de tarifas no pactadas o informadas,Reclamos por aumentos en tarifas que no fueron previamente pactados o comunicados al cliente.,,,
+Gestión administrativa,Indisponibilidad Net Cash,Incidencias relacionadas con la falta de acceso o problemas técnicos en la plataforma Net Cash.,,,
+Gestión administrativa,Información de Abonos de rechazos monetarios no reembolsados VIP,Consultas exclusivas de clientes VIP sobre abonos relacionados con rechazos monetarios que no han sido reembolsados.,,,
+Gestión administrativa,Insolvencia,Gestión de casos relacionados con la situación de insolvencia financiera del cliente.,,,
+Gestión administrativa,Ley 2300 de 2023 para gestión de cobranza - Intimidad,"Incidencias relacionadas con el cumplimiento de la Ley 2300, que regula la gestión de cobranza y protege la intimidad del cliente.",,,
+Gestión administrativa,Ley protección datos personales,"Reclamos relacionados con el manejo, tratamiento o uso indebido de los datos personales del cliente.",,,
+Gestión administrativa,Libranzas - Comisión estudio de crédito,Quejas sobre el cobro de comisiones por estudios de crédito vinculados a libranzas.,,,
+Gestión administrativa,Libranzas - Descuentos en nómina,Consultas o reclamos por descuentos aplicados a la nómina del cliente relacionados con libranzas.,,,
+Gestión administrativa,Libranzas - Saldos y movimientos no conformes,Quejas relacionadas con inconsistencias en saldos y movimientos de libranzas.,,,
+Gestión administrativa,Libranzas - Sobrantes Descuento por nómina y obligación cancelada,Reclamos por montos sobrantes tras descuentos en nómina de obligaciones ya canceladas.,,,
+Gestión administrativa,Limitación en la expedición de certificaciones,Incidencias por restricciones o demoras en la expedición de certificaciones solicitadas por el cliente.,,,
+Gestión administrativa,Límite de crédito,Consultas o reclamos relacionados con el límite de crédito asignado a un cliente o producto.,,,
+Gestión administrativa,Liquidación no conforme - Oficial,Reclamos por liquidaciones no conformes en cuentas o productos de clientes oficiales.,,,
+Gestión administrativa,Liquidación no conforme particular,Incidencias relacionadas con liquidaciones que no se ajustan a lo pactado para clientes particulares.,,,
+Gestión administrativa,Mal servicio prestado fuerza de ventas,Quejas por el servicio o información deficiente ofrecida por el equipo de ventas externo o interno.,,,
+Gestión administrativa,Mal servicio prestado funcionario,Reclamos por la atención o servicio deficiente brindado por un funcionario de la entidad.,,,
+Gestión administrativa,Mal servicio prestado proveedor,Quejas relacionadas con el servicio ofrecido por un proveedor externo vinculado con la entidad.,,,
+Gestión administrativa,Modificación de condiciones en contratos sin previa notificación al cliente,Reclamos por cambios en los términos de un contrato que no fueron comunicados previamente al cliente.,,,
+Gestión administrativa,Modificación de cupo disponible (recálculo),Consultas o solicitudes de ajuste en el cupo disponible tras un recálculo de condiciones o pagos.,,,
+Gestión administrativa,Operación no solicitada,Reclamos por operaciones procesadas sin haber sido solicitadas ni autorizadas por el cliente.,,,
+Gestión administrativa,Operaciones comercio exterior,"Gestión de incidencias relacionadas con operaciones de comercio exterior, como pagos internacionales o cartas de crédito.",,,
+Gestión administrativa,Operaciones pendientes de cobro,Consultas o reclamos por operaciones que permanecen pendientes de cobro y afectan la disponibilidad de los fondos.,,,
+Gestión administrativa,Orden de no pago no ejecutada,Reclamos relacionados con órdenes de no pago que no fueron ejecutadas correctamente por la entidad.,,,
+Gestión administrativa,Otra,Casos puntuales o excepcionales no categorizados previamente.,,,
+Gestión administrativa,Otros,Incidencias que no se clasifican en ninguna de las categorías específicas existentes.,,,
+Gestión administrativa,Otros asociados con Cert Trubutario,Consultas o reclamos relacionados con información adicional requerida en certificados tributarios.,,,
+Gestión administrativa,Pérdida de portafolio,Incidencias relacionadas con la pérdida de productos o servicios que conforman el portafolio del cliente.,,,
+Gestión administrativa,Precios,Consultas o reclamos relacionados con precios aplicados a productos y servicios ofrecidos por la entidad.,,,
+Gestión administrativa,Prescripción - Ley Borrón y Cuenta Nueva,Reclamos por la aplicación de la prescripción de obligaciones financieras bajo el amparo de la Ley Borrón y Cuenta Nueva.,,,
+Gestión administrativa,Prescripción de la Obligación,Consultas o procesos relacionados con la prescripción de obligaciones financieras conforme a la normativa.,,,
+Gestión administrativa,Procedimiento y Honorarios de Cobranza - Víctimas,Reclamos relacionados con los honorarios de cobranza aplicados a cuentas de clientes en condición de víctimas.,,,
+Gestión administrativa,Procedimiento y honorarios de cobranza ley borrón y cuenta nueva,Consultas o reclamos sobre los procedimientos y honorarios de cobranza según la Ley Borrón y Cuenta Nueva.,,,
+Gestión administrativa,Propuesta de negociación o acuerdo - Ley Borrón y Cuenta Nueva,Gestión de propuestas de negociación o acuerdos establecidos dentro de las disposiciones de esta ley.,,,
+Gestión administrativa,Publicidad Engañosa - Ley Borrón y Cuenta Nueva,Incidencias específicas relacionadas con publicidad engañosa bajo el marco de la Ley Borrón y Cuenta Nueva.,,,
+Gestión administrativa,Publicidad y promociones,Reclamos relacionados con publicidad engañosa o promociones que no cumplen con lo ofrecido.,,,
+Gestión administrativa,Puntos no asignados por retención,Quejas por la falta de acumulación de puntos en programas de lealtad debido a operaciones retenidas.,,,
+Gestión administrativa,Quebrantos - Pract. comerciales diferentes riesgo operacional,Reclamos sobre pérdidas relacionadas con prácticas comerciales que no están vinculadas directamente a riesgos operacionales.,,,
+Gestión administrativa,Recaudo nacional,Consultas o incidencias relacionadas con pagos y recaudos realizados a nivel nacional.,,,
+Gestión administrativa,Reintegro comisión estudio crédito anos anterior,Reclamos por el reintegro de comisiones cobradas previamente por estudios de crédito realizados en ejercicios anteriores.,,,
+Gestión administrativa,Reintegro Intereses por Contracargos,Ajustes en intereses generados por contracargos aplicados a transacciones del cliente.,,,
+Gestión administrativa,Reintegros especiales de calidad,Procesos relacionados con reintegros otorgados debido a fallas en la calidad del servicio o producto ofrecido.,,,
+Gestión administrativa,Relación comercial con el Banco,"Quejas o solicitudes relacionadas con la relación general del cliente con la entidad, como términos, condiciones o acuerdos.",,,
+Gestión administrativa,Reportes dian,Consultas o reclamaciones relacionadas con la información reportada a la Dirección de Impuestos y Aduanas Nacionales (DIAN).,,,
+Gestión administrativa,Retención de fondos,"Incidencias relacionadas con fondos retenidos por la entidad, ya sea en cuentas o transacciones.",,,
+Gestión administrativa,Retiros pinpad,Consultas o reclamos relacionados con retiros realizados a través de dispositivos PinPad.,,,
+Gestión administrativa,Revisión y anulación de transacciones,"Procesos para revisar y, si es necesario, anular transacciones realizadas.",,,
+Gestión administrativa,Revisión pago masivo,Verificación y ajustes en pagos masivos realizados por el cliente.,,,
+Gestión administrativa,Saldos y movimientos no conformes - Fianza FGA,Reclamos relacionados con saldos y movimientos asociados a fianzas gestionadas por el FGA.,,,
+Gestión administrativa,Score - Puntaje Buro,Consultas sobre el puntaje crediticio y cómo las acciones de la entidad han afectado el historial del cliente.,,,
+Gestión administrativa,Siniestros,Gestión de casos relacionados con siniestros reportados en seguros contratados.,,,
+Gestión administrativa,Sobrantes descuento por nómina y obligación cancelada,Reclamos por montos sobrantes no aplicados correctamente tras descuentos de nómina o cancelación de obligaciones.,,,
+Gestión administrativa,Sobregiro e intereses,Consultas o reclamos sobre sobregiros en cuentas y los intereses aplicados.,,,
+Gestión administrativa,Sustancias Alucinógenas,Incidencias legales o de seguridad asociadas con actividades prohibidas dentro del alcance de la entidad.,,,
+Gestión administrativa,Tasa Normalizada - Reintegro de Intereses,Reclamaciones por la normalización de tasas de interés y los reintegros relacionados.,,,
+Gestión administrativa,Tipo de abono (Remesas),Incidencias generales relacionadas con la categorización o aplicación de abonos de remesas.,,,
+Gestión administrativa,Tipo de abono (Remesas) VIP,Consultas de clientes VIP relacionadas con la clasificación y aplicación de abonos provenientes de remesas.,,,
+Gestión administrativa,Transacción cargada doblemente,Casos en los que una misma transacción fue procesada y debitada dos veces.,,,
+Gestión administrativa,Transacciones no reconocidas - Contracargo Convenio,Reclamos relacionados con contracargos generados en transacciones realizadas a través de convenios específicos.,,No aplica,No aplica
+Gestión administrativa,Transacciones no reconocidas - Páginas diferentes a BBVA NET,Quejas por transacciones realizadas en plataformas externas no autorizadas por el cliente.,,No aplica,No aplica
+Gestión administrativa,Tx no reconocidas - Phishing,"Reclamos por transacciones no reconocidas debido a fraudes de phishing, donde los datos del cliente fueron capturados de forma fraudulenta.",,,
+Gestión administrativa,Validación acuerdos y venta de cartera,Verificación y ajustes en acuerdos establecidos durante la venta de cartera.,,,
+Gestión administrativa,Venta de cartera,Gestión y reclamos relacionados con el proceso de venta de cartera a otras instituciones o entidades.,,,
+Gestión de privacidad,Información sujeta a reserva,Consultas o reclamos relacionados con la disponibilidad o confidencialidad de información protegida por normativas legales.,Tercero solicita información de un cliente ya sea fallecido o no.,Back Office,MODELO RESERVA BANCARIA POR MUERTE
+Gestión de privacidad,Información sujeta a reserva,Consultas o reclamos relacionados con la disponibilidad o confidencialidad de información protegida por normativas legales.,Cliente manifiesta inconformidad porque le fue entregada información a un tercero de sus productos sin su autorización.,Back Office,No aplica
+Gestión de productos financieros,Cambio de periodicidad de visualización de adquirencias Premium,Solicitudes relacionadas con ajustes en la periodicidad para visualizar adquirencias en cuentas Premium.,,,
+Gestión de productos financieros,Conciliación de Adquirencia,Casos generales de conciliación en servicios de adquirencia.,,,
+Gestión de productos financieros,Conciliación de Adquirencia VIP,Gestión de conciliaciones relacionadas con adquirencia para clientes VIP.,,,
+Gestión de productos financieros,Reliquidación de Comisiones de Adquirencias,Ajustes en las comisiones cobradas por servicios de adquirencia en general.,,,
+Gestión de productos financieros,Reliquidación de Comisiones de Adquirencias Premium,Revisión de las comisiones aplicadas en procesos de adquirencia para clientes Premium.,,,
+Gestión judicial y trámites legales,Gestión judicial y gastos procesales,Reclamos sobre los procedimientos judiciales y los gastos procesales involucrados.,,,
+Gestión judicial y trámites legales,Honorarios y gastos procesales,Quejas relacionadas con los costos asociados a procesos judiciales o extrajudiciales.,,,
+Gestión judicial y trámites legales,Procesos judiciales y medidas cautelares - Embargos,Reclamos o consultas relacionadas con embargos o medidas cautelares impuestas judicialmente.,,,
+Gestión tributaria,Impuesto cuatro por mil,Consultas o quejas sobre la aplicación del impuesto del 4x1000 en transacciones realizadas.,,,
+Inconformidades,Inconformidad compra,Reclamos sobre discrepancias o problemas en procesos de compra financiada o directa.,,,
+Inconformidades,Inconformidad compra de cartera,Quejas relacionadas con las condiciones o el proceso de compra de cartera ofrecido por la entidad.,,,
+Inconformidades,Inconformidad con Aumento - Disminución de cupo,Reclamos por cambios no autorizados o inesperados en los límites de crédito asignados.,,,
+Inconformidades,Inconformidad con Cobro Honorarios de Cobranza,Quejas por cargos de honorarios relacionados con procesos de cobranza.,,,
+Inconformidades,Inconformidad con el pago mínimo,Consultas o reclamos por el cálculo o aplicación del pago mínimo en tarjetas de crédito u otros productos financieros.,,,
+Inconformidades,Inconformidad con la atención de la Agencia de Cobranzas,Reclamos por el servicio o la gestión brindada por una agencia de cobranzas contratada por la entidad.,,,
+Inconformidades,Inconformidad en autorización o aplicación de descuentos,Quejas por descuentos no aplicados o autorizados incorrectamente en productos o servicios.,,,
+Inconformidades,Inconformidad en compra internacional,Reclamos relacionados con discrepancias en transacciones o pagos realizados en compras internacionales.,,,
+Inconformidades,Inconformidad en el saldo de la deuda,Reportes de inconsistencias en el saldo pendiente de una deuda en comparación con lo esperado.,,,
+Inconformidades,Inconformidad en el saldo para cancelación total de la deuda - Bancoldex,Reclamos relacionados con discrepancias en el saldo reflejado para la cancelación total de deudas bajo el programa Bancoldex.,,,
+Inconformidades,Inconformidad en el saldo para cancelación total de la deuda - FINAGRO,Reportes de diferencias en el saldo total para liquidar deudas asociadas al programa FINAGRO.,,,
+Inconformidades,Inconformidad en el saldo para cancelación total de la deuda - Findeter,Reclamos por discrepancias en los saldos para cancelar deudas bajo el programa Findeter.,,,
+Inconformidades,Inconformidad en el saldo para cancelación total de la deuda - Redescuento - Otros,Quejas específicas por diferencias en el saldo indicado para la cancelación total de deudas relacionadas con redescuentos u otras líneas.,,,
+Inconformidades,Inconformidad en el saldo para cancelación total de la deuda,Quejas por diferencias entre el saldo comunicado y el real para la liquidación total de una deuda.,,,
+Inconformidades,Inconformidad en el saldo total de la deuda,Reclamos por diferencias en el saldo total reflejado de una deuda frente a lo esperado.,,,
+Inconformidades,Inconformidad garantías,Consultas o reclamos por inconsistencias en las garantías ofrecidas en productos o servicios financieros.,,,
+Inconformidades,Inconformidad importe recibido y ordenado,Casos en los que existe una discrepancia entre el monto ordenado y el recibido en una transacción.,,,
+Inconformidades,Inconformidad indemnización seguros deudores,Reclamos relacionados con la falta de pago o discrepancias en la indemnización de seguros para deudores.,,,
+Inconformidades,Inconformidad por cobros de terceros,Quejas por cargos realizados por terceros a través de productos o servicios contratados con la entidad.,,,
+Inconformidades,Inconformidad priority pass,Reportes por el incumplimiento o problemas asociados con el programa Priority Pass ofrecido a clientes.,,,
+Inconformidades,Inconformidad programa puntos,"Reclamos por el manejo o acumulación de puntos en programas de lealtad, incluyendo su redención.",,,
+Inconformidades,Inconformidad rediferidos,Quejas relacionadas con las condiciones o tasas aplicadas al proceso de rediferir pagos.,,,
+Inconformidades,Inconformidad tasa ofrecida ch,Reclamaciones por diferencias entre la tasa de interés ofrecida por el Centro Hipotecario (CH) y la aplicada.,,,
+Inconformidades,Inconformidad tasa ofrecida csf,Quejas por discrepancias entre la tasa de interés ofrecida por la Comercializadora de Servicios Financieros (CSF) y la aplicada.,,,
+Inconformidades,Incumplimiento acuerdo de pago por Banco - Ley Borrón y Cuenta Nueva,Casos en los que el banco no cumple con acuerdos de pago regulados por la Ley de Borrón y Cuenta Nueva.,,,
+Inconformidades,Incumplimiento de acuerdos de pago por banco,Situaciones en las que el banco no respeta los términos de acuerdos de pago establecidos con el cliente.,,,
+Inconformidades,Incumplimiento de condiciones,Reclamos por el incumplimiento de términos y condiciones acordados en productos o servicios.,,,
+Inconformidades,Incumplimiento de la oferta comercial,Casos en los que las condiciones ofrecidas en una promoción o producto financiero no se cumplen según lo prometido.,,,
+Inconformidades,Incumplimientos Acuerdos de Pago,Reportes de incumplimiento por parte de la entidad o el cliente en los acuerdos de pago previamente establecidos.,,,
+Información deficiente/incompleta,Información deficiente o errada,Quejas generales por la entrega de información incompleta o incorrecta en cualquier canal de atención de la entidad.,,,
+Información deficiente/incompleta,Información deficiente o errada en el extracto,Consultas o quejas por datos erróneos reflejados en el extracto del cliente.,,,
+Información deficiente/incompleta,Información deficiente o errada suministrada por el call center,Incidencias relacionadas con información incorrecta o incompleta ofrecida por el call center.,,,
+Información deficiente/incompleta,Información deficiente o errada suministrada por la fuerza de ventas externas,Reclamos por información incorrecta o insuficiente proporcionada por vendedores externos a la entidad.,,,
+Información deficiente/incompleta,Información incompleta sobre VTU,Solicitudes de información adicional sobre Valores por Transferir (VTU) que no están detallados en los documentos.,,,
+Información deficiente/incompleta,Información inconsistente en el extracto,Reportes de información incorrecta o inconsistencias en los extractos entregados al cliente.,,,
+Negativas,Negativa en recepción de una PQR,"Reclamaciones por la negativa de la entidad en aceptar una petición, queja o reclamo (PQR) del cliente.",,,
+Negativas,Negativa o dilación en el pago,Casos en los que se niega o retrasa el pago correspondiente al cliente por parte de la entidad.,,,
+Negativas,No aplicación de los protocolos para personas en condiciones especiales,Incidencias relacionadas con el incumplimiento de protocolos destinados a la atención de personas con condiciones especiales.,,,
+Negativas,No atención de contribuyentes en la red,Reclamos de contribuyentes por la falta de atención adecuada en oficinas o canales de la red.,,,
+Negativas,No recepción de billetes y/o monedas,Casos en los que clientes reportan no haber recibido billetes o monedas durante una transacción en oficinas o cajeros automáticos.,,,
+Negativas,No se aplicó beneficio tasa - Frech,Reclamos por la no aplicación de beneficios de tasas establecidas bajo el programa Frech.,,,
+Negativas,No se ha realizado el traspaso de vehículo,Incidencias en las que no se completó el proceso de traspaso de un vehículo adquirido mediante la entidad.,,,
+Préstamos y Leasing,Aplicación de pagos en contrato leasing,Revisión o ajuste de pagos aplicados a contratos de leasing para asegurar su correcta imputación.,,,
+Problemas con el producto,Adelanto de Nómina - Negación del producto,Rechazo de solicitudes para adelantos de nómina debido a políticas internas o criterios de elegibilidad.,,,
+Problemas con el producto,Cancelación de tarjetas Prepago sin re expedición con reintegro de saldos (hasta 5 tarjetas) VIP,"Gestión de solicitudes VIP para la cancelación de tarjetas prepago sin reemisión, incluyendo el reintegro de saldos pendientes.",,,
+Problemas con el producto,Cobro de gastos asociados al producto no informados al cliente,Quejas relacionadas con gastos adicionales que no fueron comunicados al cliente al momento de adquirir un producto financiero.,,,
+Problemas con el producto,Cobro en productos cuenta de ahorro inactivos,Reclamos por cobros aplicados a cuentas de ahorro que no han tenido actividad reciente.,,,
+Problemas con el producto,Cobro expedición Tarjeta App BBVA.,Incidencias relacionadas con el cobro por la expedición de tarjetas solicitadas a través de la App BBVA.,,,
+Problemas con el producto,Cuota manejo tarjeta de crédito master,Reclamos o solicitudes de información sobre la cuota de manejo aplicada a tarjetas de crédito Master.,,,
+Problemas con el producto,Cuota manejo tarjeta de crédito master sta,Consultas o quejas relacionadas con la cuota de manejo aplicada a tarjetas de crédito Master STA.,,,
+Problemas con el producto,Cuota manejo tarjeta de crédito visa,Solicitudes de aclaración o reclamos sobre cuotas de manejo en tarjetas de crédito Visa.,,,
+Problemas con el producto,Cuota manejo tarjeta de crédito visa tarjetón,Consultas específicas sobre el cobro de cuota de manejo en tarjetas de crédito Visa Tarjetón.,,,
+Problemas con el producto,Cuota manejo tarjeta debito maestro,Reclamos o solicitudes de información sobre la cuota de manejo aplicada a tarjetas Maestro.,,,
+Problemas con el producto,Cuota manejo visa debito,Consultas o quejas sobre el cobro de la cuota de manejo en tarjetas Visa débito.,,,
+Problemas con el producto,Cupo Rotativo - Negación del producto,Rechazo de solicitudes relacionadas con cupos rotativos por políticas internas de la entidad.,,,
+Problemas con el producto,Estado de la Tarjeta,"Consultas o problemas relacionados con el estado actual de una tarjeta, como bloqueos o activaciones pendientes.",,,
+Problemas con el producto,Extractos Tarjetas Efipago - solicitud de movimientos mayores a un mes VIP,Solicitudes de clientes VIP para obtener extractos de tarjetas Efipago con movimientos superiores a un mes.,,,
+Problemas con el producto,Negación del producto,Denegación de solicitudes de productos financieros por motivos generales.,,,
+Problemas con el producto,Negación del producto - Segmento de Riesgo,Solicitudes rechazadas debido a políticas de riesgo establecidas por la entidad.,,,
+Problemas con el producto,Tarjetas retenidas,Incidencias donde las tarjetas del cliente fueron retenidas en cajeros automáticos o puntos de servicio.,,,
+Problemas con el producto,Transacciones no reconocidas,"Transacciones no identificadas por el cliente en cualquier canal, requiriendo investigación y resolución.",,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - BBVA NET,Reclamaciones por transacciones no autorizadas realizadas a través del portal BBVA NET.,,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - Cambiazo,Casos en los que un tercero sustituyó la tarjeta del cliente por otra para realizar transacciones no autorizadas.,,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - Fishing,"Reclamos por fraudes relacionados con phishing, donde los datos del cliente fueron utilizados sin autorización.",,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - Hurto o Perdida,Transacciones no autorizadas realizadas tras el robo o pérdida de tarjetas u otros instrumentos financieros.,,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - Otro banco,Incidencias relacionadas con transacciones desconocidas realizadas a través de otros bancos.,,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - Posible clonación,Reclamaciones por transacciones no autorizadas debido a la posible clonación de tarjetas o cuentas.,,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas - Vishing,Casos relacionados con fraudes mediante llamadas telefónicas (vishing) donde el cliente no reconoce transacciones realizadas.,,No aplica,No aplica
+Problemas con el producto,Transacciones no reconocidas BBVA Móvil,Reclamaciones de transacciones no autorizadas o reconocidas por el cliente a través de la aplicación BBVA Móvil.,,No aplica,No aplica
+Problemas con pagos,Pago de cheque falsificado o irregular,Incidencias relacionadas con cheques falsificados o con irregularidades que afectaron las operaciones del cliente.,,,
+Problemas con pagos,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,TRANSFERENCIAS INTERBANCARIAS Y PAGOS DE OBLIGACIONES INSCRITAS DE OTRAS ENTIDADES.,Back Call Center,"1. Consultar los movimientos en las opciones de 3270 (B401- KTLO -WD69)
+2. Identificar la trasnferencia y agrupar los datos de la transaccion.
+3. Verificar si la transacción tuvo reintegro, si tiene reintegro se debe enviar SPC"
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,PSE:  El pago de este tipo de facturas se genera de forma inmediata.,Back Call Center,"1. Consultar los movimientos en las opciones de 3270 (B401)
+2. Identificar en KTLO el CUS
+3. Verificar si la transacción fue exitosa o rechazada con reintegro en la plataforma de PSE, se debe enviar respuesta. "
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,PSE:  El pago de este tipo de facturas se genera de forma inmediata. No registra reintegro.,Operaciones ACH,"4. Verificar los movimientos en el producto BBVA si no registra el reintegro,  se escala a ACH  incluyendo los datos de la operación."
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,RECARGAS Y PAGO DE FACTURAS:,Back Call Center,"1. Consultar los movimientos en las opciones de 3270 (B401 KTLO)
+2. Identificar el pago o recarga.
+3. Verificar si la transacción está exitosa o rechazada con reintegro, se debe enviar respuesta"
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,PAGO DE FACTURAS (FACTURAS ACUEDUCTO),Operaciones Tarjetas,"1. Consultar los movimientos en las opciones de 3270 (B401)
+2. Identificar el pago o recarga y agrupar los datos de la transaccion.
+3. Validar el descuento en la cuenta y el concepro del débito                                                
+4. APLICA PAGO REC FACT
+5. Verificar si cumple con la politica de PMM.
+6. Para Acueducto: Si el monto supera PMM, Validar cintas de recaudo, si no registra operación pero si está el debito en la cuenta enviar a concepto OPERATIVE PAYMENT SYSTEM, si la operación registra en cintas de recaudo finalizar como transacción exitosa."
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,Transferencias o pagos propios (BBVA). La transferencia se visualiza en 3270 como exitosa.,Back Call Center,"1. Consultar los movimientos en las opciones de 3270 (B401 KTLO)
+2. Identificar la operación
+3. Verificar si la transacción está exitosa o rechazada con reintegro, se debe enviar respuesta"
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,Transferencias o pagos propios (BBVA). La transferencia no se visualiza en 3270 como exitosa.,Proveedor NTTDATA,"1. Consultar los movimientos en las opciones de 3270 (B401)
+2. Identificar la operación
+3. Si el producto se encuentra bloqueado o la transacción fue rechazada y no tuvo reintegro se debe reasignar a NTT Data                             "
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,Transferencias TRANSFI YA. La transferencia se visualiza exitosa en 3270.,Back Call Center,"1. Consultar los movimientos en las opciones de 3270 (B401 KTLO)
+2. Identificar la operación
+3. Verificar si la transacción está exitosa o rechazada con reintegro, se debe enviar respuesta"
+,Pago debitado y no aplicado,Pagos descontados de la cuenta del cliente que no fueron reflejados en el producto o servicio correspondiente.,Transferencias TRANSFI YA. La transferencia no se visualiza exitosa en 3270.,Operaciones ACH,"4. Verificar los movimientos en el producto BBVA si no registra el reintegro,  se escala a ACH  incluyendo los datos de la operación."
+Problemas con pagos,Pago debitado y no aplicado recaudo nacional,Incidencias relacionadas con pagos debitados pero no aplicados correctamente en procesos de recaudo nacional.,,,
+Problemas con pagos,Pago duplicado,"Casos en los que un pago fue procesado más de una vez, generando cobros duplicados.",,,
+Problemas con pagos,Pago mal aplicado,Situaciones en las que un pago fue registrado en una cuenta o producto incorrecto.,,,
+Problemas con pagos,Pago masivo,Consultas o incidencias relacionadas con pagos de alto volumen o procesados en bloque.,,,
+Problemas con pagos,Pago no aplicado,Casos en los que un pago efectuado no se refleja en el sistema o cuenta correspondiente.,,,
+Problemas con pagos,Pago reversado,Situaciones en las que un pago realizado fue revertido y requiere verificación o ajuste.,,,
+Problemas con pagos,Pagos por PSE VIP,Incidencias relacionadas con pagos realizados a través de la plataforma PSE para clientes VIP.,,,
+Problemas con pagos,Penalidad por pago anticipado,Consultas o quejas relacionadas con penalidades aplicadas por pagos anticipados en productos financieros.,,,
+Problemas técnicos,Fallas del sistema,Interrupciones o errores en los sistemas tecnológicos que afectan la operación bancaria.,,,
+Problemas técnicos,Fallas o inoportunidad en el proceso de vinculación,Dificultades o demoras durante el proceso de vinculación de nuevos clientes o productos.,,,
+Problemas técnicos,Fallas red oficina,Problemas técnicos en la red de oficinas que afectan la prestación de servicios a los clientes.,,,
+Problemas técnicos,Sistema Débito de cuenta CNB no pago,Incidencia relacionada con el sistema de débito automático de cuentas CNB cuando no se realiza el pago correspondiente.,,,
+Reliquidación,Reliquidación intereses cdts oficial ejerc anter,,,,
+Reliquidación,Reliquidación intereses CDTs oficial ejercicio anterior,Ajustes en los intereses de CDTs emitidos por entidades oficiales correspondientes al año anterior.,,,
+Reliquidación,Reliquidación intereses CDTs privado ejercicio anterior,Corrección de cálculos de intereses generados en Certificados de Depósito a Término (CDTs) de clientes privados en el ejercicio anterior.,,,
+Reliquidación,Reliquidación intereses privado ejercicio anterior,Revisión y ajuste de intereses generados en productos financieros de clientes privados correspondientes al ejercicio anterior.,,,
+Seguros,Endosos de seguros,Atención a solicitudes de cambios en los titulares o beneficiarios de pólizas de seguro existentes.,,,
+Seguros,Liquidación de seguros,Proceso para liquidar pólizas de seguro al finalizar su vigencia o por cancelación anticipada.,,,
+Seguros,Seguros,"Gestión de consultas, incidencias o solicitudes relacionadas con seguros adquiridos a través de la entidad.",,,
+Servicios Digitales y Canales,Imposibilidad acceder al servicio,Caso relacionado con la imposibilidad de los clientes para acceder a servicios bancarios o productos debido a problemas técnicos o restricciones.,,,
+Servicios Digitales y Canales,Otros servicios,"Gestión de solicitudes o consultas que no se clasifican en las categorías habituales, abarcando temas diversos según las necesidades del cliente.",,,
+Servicios Digitales y Canales,Servicio brindado call center,"Evaluación de la calidad del servicio brindado por el call center, incluyendo atención al cliente y resolución de casos.",,,
+Solicitudes,Solicitud ajustes o Revisión casas de cobranzas,"Revisión de casos gestionados por casas de cobranza, incluyendo ajustes o correcciones necesarias en las cuentas.",,,
+Solicitudes,Solicitud de acuerdo de pago o Normalización,"Petición para establecer acuerdos de pago o normalizar una deuda pendiente, asegurando términos claros y viables para ambas partes.",,,
+Solicitudes,Solicitud de Audios,"Gestión de solicitudes para obtener grabaciones de interacciones realizadas en el call center, utilizadas como evidencia o referencia.",,,
+Solicitudes,Solicitud de Disminución de Tasa Actual - Retención,Petición para reducir la tasa de interés o retención aplicada a un crédito u obligación financiera.,,,
+Solicitudes,Solicitud de Exclusión Gestión de cobranza,Solicitud para excluir cuentas específicas de los procesos de gestión de cobranza debido a acuerdos o casos especiales.,,,
+Solicitudes,Solicitud detalle Comisiones - Circular 012,"Provisión de información detallada sobre las comisiones aplicadas, en cumplimiento con la Circular 012.",,,
+Solicitudes,Solicitudes por reclamaciones de contribuyentes,"Gestión de reclamaciones realizadas por contribuyentes relacionadas con pagos, retenciones o impuestos.",,,
+Tarjetas,Activación de tarjeta,"Procedimiento para habilitar una tarjeta nueva o reactivar una tarjeta bloqueada, asegurando su correcto funcionamiento.",,,
+Tarjetas,Bloqueo de tarjeta,"Proceso para bloquear tarjetas de manera inmediata en caso de pérdida, robo o actividad sospechosa.",,,
+Tarjetas,Cupo rotativo - El cliente no recibe extracto,Atención de solicitudes de clientes sobre la falta de envío o recepción del extracto correspondiente a su cupo rotativo.,,,
+Tarjetas,Información tarjetas o claves no entregadas VIP,"Gestión de información sobre tarjetas o claves que no han sido entregadas a clientes VIP, asegurando la pronta resolución del problema.",,,
+Transacciones,Cobro comisión retiros ATM,"Revisión de casos en los que se cobraron comisiones por retiros en cajeros automáticos, verificando si la transacción corresponde al cobro estipulado.",,,
+Transacciones,Debitó y no entrego cajero nivel siete,"Incidencia en cajeros de nivel siete donde se realizó el débito de una cuenta, pero no se entregó el dinero solicitado.",,,
+Transacciones,Debitó y no entrego cajero otras redes,Caso relacionado con transacciones en cajeros automáticos de otras redes en las que se debitó un monto pero no se entregó el efectivo.,,,
+Transacciones,Verificar cargo y/o abono por Depósito electrónico,Confirmación de la correcta aplicación de cargos y abonos derivados de transacciones de depósito electrónico en cuentas estándar.,,,
+Transacciones,Verificar cargo y/o abono por Depósito electrónico Premium,Verificación específica de transacciones electrónicas en cuentas Premium para garantizar la correcta aplicación de depósitos o abonos.,,,
+Transacciones,Verificar cargo y/o abono por Depósito electrónico VIP,"Revisión de transacciones de depósito electrónico asociadas a cuentas VIP, asegurando que los cargos o abonos se reflejen correctamente.",,,
