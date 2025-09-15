@@ -29,4 +29,5 @@ presidio-analyzer
 presidio-anonymizer
 pytesseract
 requests
-opencv-python-headless
+opencv-python
+fpdf2
